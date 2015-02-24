@@ -1,0 +1,47 @@
+
+ 
+02-24-15 16:42:39 | POST detected
+02-24-15 16:42:40 | Proxy could not resolve requested url - http://tasks.arcgisonline.com/ArcGIS/rest/services/Geometry/GeometryServer/densify.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+02-24-15 16:45:21 | POST detected
+02-24-15 16:45:21 | Proxy could not resolve requested url - http://tasks.arcgisonline.com/ArcGIS/rest/services/Geometry/GeometryServer/densify.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+02-24-15 16:45:54 | POST detected
+02-24-15 16:45:54 | Proxy could not resolve requested url - http://tasks.arcgisonline.com/ArcGIS/rest/services/Geometry/GeometryServer/densify.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+02-24-15 16:46:20 | GET detected
+02-24-15 16:46:20 | Proxy could not resolve requested url - http://tasks.arcgisonline.com/ArcGIS/rest/services/Geometry/GeometryServer/densify.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+02-24-15 16:46:45 | GET detected
+02-24-15 16:46:45 | Proxy could not resolve requested url - http://tasks.arcgisonline.com/ArcGIS/rest/services/Geometry/GeometryServer/densify.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+02-24-15 16:46:49 | POST detected
+02-24-15 16:46:49 | Proxy could not resolve requested url - http://mastergeotech.dlsi.uji.es:6080/arcgis/rest/services/Geometry/GeometryServer/densify.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+02-24-15 16:47:00 | GET detected
+02-24-15 16:47:00 | Proxy could not resolve requested url - http://mastergeotech.dlsi.uji.es:6080/arcgis/rest/services/Geometry/GeometryServer/densify.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+02-24-15 16:47:16 | GET detected
+02-24-15 16:47:16 | Proxy could not resolve requested url - http://google.com.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+02-24-15 16:47:42 | GET detected
+02-24-15 16:47:42 | ips table created!
+02-24-15 16:47:42 | clicks table created!
+02-24-15 16:47:42 | Ok to proxy
+02-24-15 16:47:42 | Proxy complete
+ 
+02-24-15 16:48:48 | POST detected
+02-24-15 16:48:48 | Ok to proxy
+02-24-15 16:48:48 | Proxy complete
+ 
+02-24-15 16:49:32 | POST detected
+02-24-15 16:49:32 | Ok to proxy
+02-24-15 16:49:32 | Proxy complete
+ 
+02-24-15 16:49:40 | GET detected
+02-24-15 16:49:40 | Ok to proxy
+02-24-15 16:49:40 | Proxy complete
+ 
+02-24-15 16:55:33 | POST detected
+02-24-15 16:55:33 | Ok to proxy
+02-24-15 16:55:33 | Proxy complete
