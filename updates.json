@@ -1,0 +1,3061 @@
+[{
+  "position": {
+    "lat": 39.988744,
+    "lon": -0.047098
+  },
+  "name": "Paseo Morella / Parque Ribalta",
+  "code": "1371",
+  "address": "Paseo Morella / Parque Ribalta",
+  "id": 2237,
+  "nextBuses": "T1 a UJI - 08:40;T1 a UJI - 08:43#T1 a Grau - 08:38;T1 a Grau - 08:53"
+}, {
+  "position": {
+    "lat": 39.973961,
+    "lon": -0.047056
+  },
+  "name": "Av. Casalduch (IES M.Salvador)",
+  "code": "1524",
+  "address": "Av. Casalduch (IES M.Salvador)",
+  "id": 2238,
+  "nextBuses": "L8 - 09:56;L8 - 11:16"
+}, {
+  "position": {
+    "lat": 39.989747,
+    "lon": -0.051259
+  },
+  "name": "Estación Intermodal",
+  "code": "1372",
+  "address": "Estación Intermodal",
+  "id": 2240,
+  "nextBuses": "T1 a UJI - 08:41;T1 a UJI - 08:44#T1 a Grau - 08:51;T1 a Grau - 09:06#T1 a Ribalta - 08:38;T1 a Ribalta - 08:46"
+}, {
+  "position": {
+    "lat": 39.979697,
+    "lon": -0.038507
+  },
+  "name": "Av. Casalduch (Colegio Carmelitas)",
+  "code": "1525",
+  "address": "Av. Casalduch (Colegio Carmelitas)",
+  "id": 2241,
+  "nextBuses": "L1 - 08:41;L1 - 09:01#L8 - 09:52;L8 - 11:12"
+}, {
+  "position": {
+    "lat": 39.991288,
+    "lon": -0.057997
+  },
+  "name": "Puente Siglo XXI",
+  "code": "1373",
+  "address": "Puente Siglo XXI",
+  "id": 2242,
+  "nextBuses": "T1 a UJI - 08:44;T1 a UJI - 08:47#T1 a Grau - 08:49;T1 a Grau - 09:04#T1 a Ribalta - 08:44;T1 a Ribalta - 08:52"
+}, {
+  "position": {
+    "lat": 39.992562,
+    "lon": -0.063693
+  },
+  "name": "Arrabal universitario",
+  "code": "1374",
+  "address": "Arrabal universitario",
+  "id": 2243,
+  "nextBuses": "T1 a UJI - 08:46#T1 a Grau - 08:46;T1 a Grau - 09:01#T1 a Ribalta - 08:41;T1 a Ribalta - 08:49"
+}, {
+  "position": {
+    "lat": 39.975234,
+    "lon": 0.015036
+  },
+  "name": "Grau",
+  "code": "1394",
+  "address": "Grau",
+  "id": 2244,
+  "nextBuses": "LT Serradal - 09:05;LT Serradal - 09:35#T1 a UJI - 08:50;T1 a UJI - 09:05#T1 a Grau - 09:12#LT Platja - 08:50;LT Platja - 09:20"
+}, {
+  "position": {
+    "lat": 39.989107,
+    "lon": -0.034177
+  },
+  "name": "Av. Capuchinos, nº3",
+  "code": "1526",
+  "address": "Av. Capuchinos, nº3",
+  "id": 2246,
+  "nextBuses": "L8 - 09:47;L8 - 11:07"
+}, {
+  "position": {
+    "lat": 39.994427,
+    "lon": -0.068547
+  },
+  "name": "Universitat Jaume I",
+  "code": "1375",
+  "address": "Universitat Jaume I",
+  "id": 2247,
+  "nextBuses": "T1 a UJI - 09:27#T1 a Grau - 08:45;T1 a Grau - 09:00#T1 a Ribalta - 08:40;T1 a Ribalta - 08:48"
+}, {
+  "position": {
+    "lat": 39.991793,
+    "lon": -0.033534
+  },
+  "name": "Av. Capuchinos nº36",
+  "code": "1667",
+  "address": "Av. Capuchinos nº36",
+  "id": 2248,
+  "nextBuses": "L1 - 08:43;L1 - 08:58"
+}, {
+  "position": {
+    "lat": 39.983307,
+    "lon": -0.022511
+  },
+  "name": "Av. Mar / Recinto ferial",
+  "code": "1395",
+  "address": "Av. Mar / Recinto ferial",
+  "id": 2249,
+  "nextBuses": "T1 a UJI - 08:44;T1 a UJI - 08:58#T1 a Grau - 08:38;T1 a Grau - 08:54"
+}, {
+  "position": {
+    "lat": 39.977148,
+    "lon": 0.007967
+  },
+  "name": "Av. Mar / Instituto",
+  "code": "1399",
+  "address": "Av. Mar / Instituto",
+  "id": 2251,
+  "nextBuses": "T1 a UJI - 08:51;T1 a UJI - 09:06#T1 a Grau - 08:47;T1 a Grau - 09:03"
+}, {
+  "position": {
+    "lat": 39.992253,
+    "lon": -0.033549
+  },
+  "name": "Av. Capuchinos (Pza.Primer Molí)",
+  "code": "1527",
+  "address": "Av. Capuchinos (Pza.Primer Molí)",
+  "id": 2252,
+  "nextBuses": "L8 - 09:46;L8 - 11:06"
+}, {
+  "position": {
+    "lat": 39.980191,
+    "lon": -0.007034
+  },
+  "name": "Av. Mar / Donació",
+  "code": "1401",
+  "address": "Av. Mar / Donació",
+  "id": 2253,
+  "nextBuses": "T1 a UJI - 08:39;T1 a UJI - 08:55#T1 a Grau - 08:43;T1 a Grau - 08:58"
+}, {
+  "position": {
+    "lat": 39.978642,
+    "lon": 5.71E-4
+  },
+  "name": "Av. Mar / Patos",
+  "code": "1400",
+  "address": "Av. Mar / Patos",
+  "id": 2254,
+  "nextBuses": "T1 a UJI - 08:53#T1 a Grau - 08:45;T1 a Grau - 09:01"
+}, {
+  "position": {
+    "lat": 39.981348,
+    "lon": -0.012813
+  },
+  "name": "Av. Mar / Autovía puerto",
+  "code": "1402",
+  "address": "Av. Mar / Autovía puerto",
+  "id": 2255,
+  "nextBuses": "T1 a UJI - 08:41;T1 a UJI - 08:56#T1 a Grau - 08:41;T1 a Grau - 08:57"
+}, {
+  "position": {
+    "lat": 39.989559,
+    "lon": -0.0339
+  },
+  "name": "Av. Capuchinos 14",
+  "code": "1668",
+  "address": "Av. Capuchinos 14",
+  "id": 2256,
+  "nextBuses": "L1 - 08:42;L1 - 08:56"
+}, {
+  "position": {
+    "lat": 39.985785,
+    "lon": -0.035338
+  },
+  "name": "Cardona Vives",
+  "code": "1397",
+  "address": "Cardona Vives",
+  "id": 2257,
+  "nextBuses": "T1 a Grau - 08:47;T1 a Grau - 09:01"
+}, {
+  "position": {
+    "lat": 39.9843,
+    "lon": -0.027497
+  },
+  "name": "Av. Mar / Columbretes",
+  "code": "1403",
+  "address": "Av. Mar / Columbretes",
+  "id": 2258,
+  "nextBuses": "T1 a UJI - 08:45;T1 a UJI - 09:00#T1 a Grau - 08:52;T1 a Grau - 09:07"
+}, {
+  "position": {
+    "lat": 39.987819,
+    "lon": -0.042641
+  },
+  "name": "Paseo Ribalta (La Farola)",
+  "code": "1409",
+  "address": "Paseo Ribalta (La Farola)",
+  "id": 2260,
+  "nextBuses": "Empty"
+}, {
+  "position": {
+    "lat": 40.009199,
+    "lon": -0.052354
+  },
+  "name": "Puente Penyeta (A) bis",
+  "code": "1521",
+  "address": "Puente Penyeta (A) bis",
+  "id": 2261,
+  "nextBuses": "L8 - 09:32;L8 - 10:52"
+}, {
+  "position": {
+    "lat": 39.9871,
+    "lon": -0.040303
+  },
+  "name": "Plaza Tetuán",
+  "code": "1398",
+  "address": "Plaza Tetuán",
+  "id": 2262,
+  "nextBuses": "T1 a Grau - 08:43;T1 a Grau - 08:57"
+}, {
+  "position": {
+    "lat": 39.998334,
+    "lon": -0.039236
+  },
+  "name": "Av. Benicassim (Políg. Estadio B)",
+  "code": "1528",
+  "address": "Av. Benicassim (Políg. Estadio B)",
+  "id": 2264,
+  "nextBuses": "L1 - 08:52;L1 - 08:59#L2 - 08:41;L2 - 09:06#L8 - 09:41;L8 - 11:01"
+}, {
+  "position": {
+    "lat": 39.979095,
+    "lon": -0.043146
+  },
+  "name": "Av.Burriana 4",
+  "code": "1488",
+  "address": "Av.Burriana 4",
+  "id": 2266,
+  "nextBuses": "L1 - 08:51#L4 - 08:44;L4 - 09:14#L7 - 09:43;L7 - 10:53#L12 - 09:15;L12 - 10:15"
+}, {
+  "position": {
+    "lat": 39.984211,
+    "lon": -0.037844
+  },
+  "name": "Gasset, nº5",
+  "code": "1414",
+  "address": "Gasset, nº5",
+  "id": 2268,
+  "nextBuses": "Empty"
+}, {
+  "position": {
+    "lat": 39.986423,
+    "lon": -0.040179
+  },
+  "name": "Av. Rei en Jaume",
+  "code": "1468",
+  "address": "Av. Rei en Jaume",
+  "id": 2269,
+  "nextBuses": "T1 a UJI - 08:38;T1 a UJI - 08:55"
+}, {
+  "position": {
+    "lat": 39.985054,
+    "lon": -0.043358
+  },
+  "name": "Ronda Mijares nº35",
+  "code": "1424",
+  "address": "Ronda Mijares nº35",
+  "id": 2270,
+  "nextBuses": "Empty"
+}, {
+  "position": {
+    "lat": 39.984431,
+    "lon": -0.038758
+  },
+  "name": "Puerta del Sol",
+  "code": "1469",
+  "address": "Puerta del Sol",
+  "id": 2271,
+  "nextBuses": "T1 a UJI - 08:53;T1 a UJI - 09:08"
+}, {
+  "position": {
+    "lat": 39.992641,
+    "lon": -0.047691
+  },
+  "name": "Av. Vall d\u0027Uixó (Av.Quevedo) B",
+  "code": "1430",
+  "address": "Av. Vall d\u0027Uixó (Av.Quevedo) B",
+  "id": 2272,
+  "nextBuses": "Empty"
+}, {
+  "position": {
+    "lat": 40.000095,
+    "lon": -0.045379
+  },
+  "name": "Av. Castell Vell (Av. Diput.)",
+  "code": "1432",
+  "address": "Av. Castell Vell (Av. Diput.)",
+  "id": 2274,
+  "nextBuses": "Empty"
+}, {
+  "position": {
+    "lat": 39.985104,
+    "lon": -0.03145
+  },
+  "name": "Av. Mar / Torreblanca",
+  "code": "1396",
+  "address": "Av. Mar / Torreblanca",
+  "id": 2275,
+  "nextBuses": "T1 a UJI - 08:48;T1 a UJI - 09:02#T1 a Grau - 08:49;T1 a Grau - 09:04"
+}, {
+  "position": {
+    "lat": 39.987646,
+    "lon": -0.047485
+  },
+  "name": "Av.Barcelona (c.c.)",
+  "code": "1443",
+  "address": "Av.Barcelona (c.c.)",
+  "id": 2276,
+  "nextBuses": "Empty"
+}, {
+  "position": {
+    "lat": 39.980802,
+    "lon": -0.064571
+  },
+  "name": "Centro Comercial (Q.Salera)",
+  "code": "1429",
+  "address": "Centro Comercial (Q.Salera)",
+  "id": 2277,
+  "nextBuses": "Empty"
+}, {
+  "position": {
+    "lat": 39.994387,
+    "lon": -0.068533
+  },
+  "name": "U.J.I. (bis)",
+  "code": "1559",
+  "address": "U.J.I. (bis)",
+  "id": 2278,
+  "nextBuses": "L10 - 08:57;L10 - 09:22"
+}, {
+  "position": {
+    "lat": 39.985682,
+    "lon": -0.033945
+  },
+  "name": "Av. Mar / Antiguo Asilo",
+  "code": "1471",
+  "address": "Av. Mar / Antiguo Asilo",
+  "id": 2279,
+  "nextBuses": "T1 a UJI - 08:49;T1 a UJI - 09:04"
+}, {
+  "position": {
+    "lat": 39.974809,
+    "lon": -0.056304
+  },
+  "name": "PRUEBAS ETRA",
+  "code": "1437",
+  "address": "PRUEBAS ETRA",
+  "id": 2280,
+  "nextBuses": "Empty"
+}, {
+  "position": {
+    "lat": 39.987387,
+    "lon": -0.042297
+  },
+  "name": "Rda/Mijares-C/Zaragoza",
+  "code": "1421",
+  "address": "Rda/Mijares-C/Zaragoza",
+  "id": 2282,
+  "nextBuses": "Empty"
+}, {
+  "position": {
+    "lat": 39.983821,
+    "lon": -0.035638
+  },
+  "name": "Plaza Borrull",
+  "code": "1470",
+  "address": "Plaza Borrull",
+  "id": 2283,
+  "nextBuses": "T1 a UJI - 08:51;T1 a UJI - 09:06"
+}, {
+  "position": {
+    "lat": 39.991478,
+    "lon": -0.049404
+  },
+  "name": "Cardenal Costa (fte.Ford)",
+  "code": "1445",
+  "address": "Cardenal Costa (fte.Ford)",
+  "id": 2284,
+  "nextBuses": "Empty"
+}, {
+  "position": {
+    "lat": 40.012757,
+    "lon": -0.049542
+  },
+  "name": "Cno. Borriol Costa B",
+  "code": "1530",
+  "address": "Cno. Borriol Costa B",
+  "id": 2285,
+  "nextBuses": "L8 - 09:10;L8 - 10:32"
+}, {
+  "position": {
+    "lat": 40.01147,
+    "lon": -0.052057
+  },
+  "name": "Cruce Penyeta R.",
+  "code": "1531",
+  "address": "Cruce Penyeta R.",
+  "id": 2287,
+  "nextBuses": "L8 - 09:09;L8 - 10:31"
+}, {
+  "position": {
+    "lat": 39.990513,
+    "lon": -0.047584
+  },
+  "name": "Cardenal Costa,nº 28",
+  "code": "1444",
+  "address": "Cardenal Costa,nº 28",
+  "id": 2289,
+  "nextBuses": "Empty"
+}, {
+  "position": {
+    "lat": 39.989657,
+    "lon": -0.051485
+  },
+  "name": "Paseo Morella (FFCC)",
+  "code": "1449",
+  "address": "Paseo Morella (FFCC)",
+  "id": 2291,
+  "nextBuses": "Empty"
+}, {
+  "position": {
+    "lat": 39.984039,
+    "lon": -0.044865
+  },
+  "name": "Rep.Argentina (Hosp.Provincial)",
+  "code": "1436",
+  "address": "Rep.Argentina (Hosp.Provincial)",
+  "id": 2292,
+  "nextBuses": "Empty"
+}, {
+  "position": {
+    "lat": 39.98895,
+    "lon": -0.044571
+  },
+  "name": "Paseo Ribalta,nº 20",
+  "code": "1450",
+  "address": "Paseo Ribalta,nº 20",
+  "id": 2293,
+  "nextBuses": "Empty"
+}, {
+  "position": {
+    "lat": 39.987847,
+    "lon": -0.052219
+  },
+  "name": "Pintor Oliet (Estación Intermodal)",
+  "code": "1433",
+  "address": "Pintor Oliet (Estación Intermodal)",
+  "id": 2294,
+  "nextBuses": "Empty"
+}, {
+  "position": {
+    "lat": 39.974628,
+    "lon": -0.049907
+  },
+  "name": "Av.Valencia (Grupo Verge Lledó)",
+  "code": "1457",
+  "address": "Av.Valencia (Grupo Verge Lledó)",
+  "id": 2295,
+  "nextBuses": "Empty"
+}, {
+  "position": {
+    "lat": 39.994352,
+    "lon": -0.068593
+  },
+  "name": "U.J.I.",
+  "code": "1452",
+  "address": "U.J.I.",
+  "id": 2296,
+  "nextBuses": "Empty"
+}, {
+  "position": {
+    "lat": 39.993824,
+    "lon": -0.059855
+  },
+  "name": "Escuela Oficial Idiomas B",
+  "code": "1463",
+  "address": "Escuela Oficial Idiomas B",
+  "id": 2297,
+  "nextBuses": "Empty"
+}, {
+  "position": {
+    "lat": 40.012823,
+    "lon": -0.049644
+  },
+  "name": "Cno. Borriol Costa",
+  "code": "1538",
+  "address": "Cno. Borriol Costa",
+  "id": 2298,
+  "nextBuses": "L8 - 09:23;L8 - 10:43"
+}, {
+  "position": {
+    "lat": 39.995695,
+    "lon": -0.037476
+  },
+  "name": "Estadio Castalia",
+  "code": "1519",
+  "address": "Estadio Castalia",
+  "id": 2299,
+  "nextBuses": "Empty"
+}, {
+  "position": {
+    "lat": 39.986282,
+    "lon": -0.02341
+  },
+  "name": "Recinto Ferial (Mercado)",
+  "code": "1417",
+  "address": "Recinto Ferial (Mercado)",
+  "id": 2301,
+  "nextBuses": "Empty"
+}, {
+  "position": {
+    "lat": 40.011554,
+    "lon": -0.052171
+  },
+  "name": "Cruce Penyeta Roja",
+  "code": "1539",
+  "address": "Cruce Penyeta Roja",
+  "id": 2302,
+  "nextBuses": "L8 - 09:24;L8 - 10:44"
+}, {
+  "position": {
+    "lat": 39.992375,
+    "lon": -0.050689
+  },
+  "name": "Cementerio",
+  "code": "1474",
+  "address": "Cementerio",
+  "id": 2303,
+  "nextBuses": "Empty"
+}, {
+  "position": {
+    "lat": 39.997019,
+    "lon": -0.065422
+  },
+  "name": "Grupo Roser A",
+  "code": "1477",
+  "address": "Grupo Roser A",
+  "id": 2304,
+  "nextBuses": "Empty"
+}, {
+  "position": {
+    "lat": 39.98215,
+    "lon": -0.049923
+  },
+  "name": "Gran Vía T. Blanco, nº44",
+  "code": "1591",
+  "address": "Gran Vía T. Blanco, nº44",
+  "id": 2305,
+  "nextBuses": "L4 - 08:43;L4 - 09:12#L7 - 08:52;L7 - 10:02"
+}, {
+  "position": {
+    "lat": 39.996952,
+    "lon": -0.065987
+  },
+  "name": "Grupo Roser B",
+  "code": "1476",
+  "address": "Grupo Roser B",
+  "id": 2306,
+  "nextBuses": "Empty"
+}, {
+  "position": {
+    "lat": 40.009463,
+    "lon": -0.052448
+  },
+  "name": "Puente Penyeta (A)",
+  "code": "1540",
+  "address": "Puente Penyeta (A)",
+  "id": 2307,
+  "nextBuses": "L8 - 09:08;L8 - 10:30"
+}, {
+  "position": {
+    "lat": 40.003486,
+    "lon": -0.082855
+  },
+  "name": "Nuevo Cementerio",
+  "code": "1478",
+  "address": "Nuevo Cementerio",
+  "id": 2309,
+  "nextBuses": "Empty"
+}, {
+  "position": {
+    "lat": 39.984056,
+    "lon": -0.044829
+  },
+  "name": "Rep.Argentina (Hosp. Prov.)",
+  "code": "1467",
+  "address": "Rep.Argentina (Hosp. Prov.)",
+  "id": 2310,
+  "nextBuses": "L2 - 08:48;L2 - 09:13#L4 - 08:41;L4 - 09:40#L7 - 08:49;L7 - 09:59#L12 - 09:12;L12 - 10:12#L15 - 09:12;L15 - 10:12"
+}, {
+  "position": {
+    "lat": 40.018936,
+    "lon": -0.053751
+  },
+  "name": "Urb.Torreta (fin de línea)",
+  "code": "1541",
+  "address": "Urb.Torreta (fin de línea)",
+  "id": 2311,
+  "nextBuses": "L8 - 09:19;L8 - 10:39"
+}, {
+  "position": {
+    "lat": 39.988933,
+    "lon": -0.046036
+  },
+  "name": "Av.Barcelona (P.Ribalta)",
+  "code": "1481",
+  "address": "Av.Barcelona (P.Ribalta)",
+  "id": 2312,
+  "nextBuses": "Empty"
+}, {
+  "position": {
+    "lat": 39.985031,
+    "lon": -0.045982
+  },
+  "name": "Av.Dr.Clará (fte. Hospital)",
+  "code": "1487",
+  "address": "Av.Dr.Clará (fte. Hospital)",
+  "id": 2313,
+  "nextBuses": "Empty"
+}, {
+  "position": {
+    "lat": 40.008262,
+    "lon": -0.057666
+  },
+  "name": "Tossal Gros",
+  "code": "1542",
+  "address": "Tossal Gros",
+  "id": 2314,
+  "nextBuses": "L8 - 09:28;L8 - 10:48"
+}, {
+  "position": {
+    "lat": 39.992206,
+    "lon": -0.051106
+  },
+  "name": "Cementerio (S.José)",
+  "code": "1480",
+  "address": "Cementerio (S.José)",
+  "id": 2315,
+  "nextBuses": "Empty"
+}, {
+  "position": {
+    "lat": 39.993752,
+    "lon": -0.063758
+  },
+  "name": "Av. Sos Baynat (frente campus UJI)",
+  "code": "1494",
+  "address": "Av. Sos Baynat (frente campus UJI)",
+  "id": 2316,
+  "nextBuses": "Empty"
+}, {
+  "position": {
+    "lat": 39.974247,
+    "lon": -0.033568
+  },
+  "name": "Comisaría Policía (Río Sella)",
+  "code": "1502",
+  "address": "Comisaría Policía (Río Sella)",
+  "id": 2317,
+  "nextBuses": "L12 - 09:29;L12 - 10:29"
+}, {
+  "position": {
+    "lat": 39.97662,
+    "lon": -0.047129
+  },
+  "name": "Av.Valencia (Pza. Libertad) A",
+  "code": "1456",
+  "address": "Av.Valencia (Pza. Libertad) A",
+  "id": 2318,
+  "nextBuses": "Empty"
+}, {
+  "position": {
+    "lat": 40.016557,
+    "lon": -0.05055
+  },
+  "name": "Joan Miró (B)",
+  "code": "1544",
+  "address": "Joan Miró (B)",
+  "id": 2319,
+  "nextBuses": "L8 - 09:13;L8 - 10:34"
+}, {
+  "position": {
+    "lat": 39.975807,
+    "lon": -0.034694
+  },
+  "name": "Río Nalón (Fte. nº2)",
+  "code": "1503",
+  "address": "Río Nalón (Fte. nº2)",
+  "id": 2320,
+  "nextBuses": "L12 - 09:32;L12 - 10:32"
+}, {
+  "position": {
+    "lat": 40.016506,
+    "lon": -0.050657
+  },
+  "name": "Joan Miró (A)",
+  "code": "1546",
+  "address": "Joan Miró (A)",
+  "id": 2322,
+  "nextBuses": "L8 - 09:21;L8 - 10:41"
+}, {
+  "position": {
+    "lat": 39.988711,
+    "lon": -0.033843
+  },
+  "name": "Rafalafena (Mª Agustina)",
+  "code": "1507",
+  "address": "Rafalafena (Mª Agustina)",
+  "id": 2323,
+  "nextBuses": "L11 - 08:51;L11 - 09:24"
+}, {
+  "position": {
+    "lat": 39.981629,
+    "lon": -0.045742
+  },
+  "name": "República Argentina (Pza. P. Porcar)",
+  "code": "1466",
+  "address": "República Argentina (Pza. P. Porcar)",
+  "id": 2324,
+  "nextBuses": "L2 - 08:49;L2 - 09:14#L12 - 09:13;L12 - 10:13#L15 - 09:13;L15 - 10:13"
+}, {
+  "position": {
+    "lat": 39.989941,
+    "lon": -0.06658
+  },
+  "name": "Av. Sos Baynat",
+  "code": "1482",
+  "address": "Av. Sos Baynat",
+  "id": 2325,
+  "nextBuses": "L10 - 08:52;L10 - 09:19#L12 - 09:03;L12 - 10:03"
+}, {
+  "position": {
+    "lat": 39.988207,
+    "lon": -0.03068
+  },
+  "name": "Rafalafena (Biblioteca)",
+  "code": "1509",
+  "address": "Rafalafena (Biblioteca)",
+  "id": 2326,
+  "nextBuses": "L11 - 08:51;L11 - 09:24"
+}, {
+  "position": {
+    "lat": 39.979123,
+    "lon": -0.04318
+  },
+  "name": "Av.Burriana nº 4",
+  "code": "1496",
+  "address": "Av.Burriana nº 4",
+  "id": 2327,
+  "nextBuses": "Empty"
+}, {
+  "position": {
+    "lat": 39.987908,
+    "lon": -0.028866
+  },
+  "name": "Rafalafena (Ambulatorio)",
+  "code": "1511",
+  "address": "Rafalafena (Ambulatorio)",
+  "id": 2328,
+  "nextBuses": "L11 - 08:50;L11 - 09:23"
+}, {
+  "position": {
+    "lat": 39.984542,
+    "lon": -0.029328
+  },
+  "name": "Av. del Mar (Les Torres)",
+  "code": "1514",
+  "address": "Av. del Mar (Les Torres)",
+  "id": 2329,
+  "nextBuses": "Empty"
+}, {
+  "position": {
+    "lat": 39.985479,
+    "lon": -0.033901
+  },
+  "name": "Av. Mar (Asilo)",
+  "code": "1515",
+  "address": "Av. Mar (Asilo)",
+  "id": 2330,
+  "nextBuses": "Empty"
+}, {
+  "position": {
+    "lat": 39.984935,
+    "lon": -0.031302
+  },
+  "name": "Av. del Mar (Sanidad)",
+  "code": "1513",
+  "address": "Av. del Mar (Sanidad)",
+  "id": 2331,
+  "nextBuses": "Empty"
+}, {
+  "position": {
+    "lat": 39.995815,
+    "lon": -0.054195
+  },
+  "name": "Cementerio (Quadra Borriolenc)",
+  "code": "1479",
+  "address": "Cementerio (Quadra Borriolenc)",
+  "id": 2332,
+  "nextBuses": "L8 - 08:54;L8 - 10:16"
+}, {
+  "position": {
+    "lat": 39.990559,
+    "lon": -0.039865
+  },
+  "name": "Ronda Magdalena (Capuchinos)",
+  "code": "1517",
+  "address": "Ronda Magdalena (Capuchinos)",
+  "id": 2333,
+  "nextBuses": "L2 - 08:56;L2 - 09:26#L10 - 09:09#L11 - 08:55"
+}, {
+  "position": {
+    "lat": 39.988951,
+    "lon": -0.03792
+  },
+  "name": "Plaza Clavé",
+  "code": "1512",
+  "address": "Plaza Clavé",
+  "id": 2334,
+  "nextBuses": "L11 - 08:54"
+}, {
+  "position": {
+    "lat": 39.979236,
+    "lon": -0.038082
+  },
+  "name": "Godofredo Buenos Aires (Parque)",
+  "code": "1499",
+  "address": "Godofredo Buenos Aires (Parque)",
+  "id": 2335,
+  "nextBuses": "L12 - 09:37"
+}, {
+  "position": {
+    "lat": 39.990041,
+    "lon": -0.041468
+  },
+  "name": "Joaquín Costa 9",
+  "code": "1506",
+  "address": "Joaquín Costa 9",
+  "id": 2336,
+  "nextBuses": "L10 - 09:08#L11 - 08:38;L11 - 09:11"
+}, {
+  "position": {
+    "lat": 40.001948,
+    "lon": -0.042101
+  },
+  "name": "Hospital General",
+  "code": "1520",
+  "address": "Hospital General",
+  "id": 2337,
+  "nextBuses": "Empty"
+}, {
+  "position": {
+    "lat": 39.983894,
+    "lon": -0.028654
+  },
+  "name": "Pablo Iglesias (fte. Edificio Goliat)",
+  "code": "1537",
+  "address": "Pablo Iglesias (fte. Edificio Goliat)",
+  "id": 2338,
+  "nextBuses": "Empty"
+}, {
+  "position": {
+    "lat": 39.998486,
+    "lon": -0.046947
+  },
+  "name": "Grupo S. Marcos",
+  "code": "1529",
+  "address": "Grupo S. Marcos",
+  "id": 2339,
+  "nextBuses": "L8 - 08:57;L8 - 10:19"
+}, {
+  "position": {
+    "lat": 39.972338,
+    "lon": -0.050533
+  },
+  "name": "Panderola, nº17",
+  "code": "1534",
+  "address": "Panderola, nº17",
+  "id": 2340,
+  "nextBuses": "L8 - 09:57;L8 - 11:17"
+}, {
+  "position": {
+    "lat": 39.979399,
+    "lon": -0.052617
+  },
+  "name": "Gran Vía T. M. (Hospital)",
+  "code": "1535",
+  "address": "Gran Vía T. M. (Hospital)",
+  "id": 2341,
+  "nextBuses": "L4 - 08:41;L4 - 09:10#L7 - 09:40;L7 - 10:49#L8 - 08:40;L8 - 10:02"
+}, {
+  "position": {
+    "lat": 40.000164,
+    "lon": -0.045985
+  },
+  "name": "Av. Diputación (Grupo S.Agustín)",
+  "code": "1547",
+  "address": "Av. Diputación (Grupo S.Agustín)",
+  "id": 2342,
+  "nextBuses": "L1 - 08:47;L1 - 08:54#L8 - 09:37;L8 - 10:57"
+}, {
+  "position": {
+    "lat": 39.985298,
+    "lon": -0.046919
+  },
+  "name": "Av. Dr. Clará, nº36",
+  "code": "1533",
+  "address": "Av. Dr. Clará, nº36",
+  "id": 2343,
+  "nextBuses": "L6 - 08:51;L6 - 09:15#L8 - 08:43;L8 - 10:06"
+}, {
+  "position": {
+    "lat": 39.985843,
+    "lon": -0.034401
+  },
+  "name": "Gobernador (Pza. Cardona Vives)",
+  "code": "1551",
+  "address": "Gobernador (Pza. Cardona Vives)",
+  "id": 2344,
+  "nextBuses": "L1 - 08:58#L8 - 09:49;L8 - 11:09"
+}, {
+  "position": {
+    "lat": 39.995406,
+    "lon": -0.034994
+  },
+  "name": "Calderón de la Barca (Colegio)",
+  "code": "1550",
+  "address": "Calderón de la Barca (Colegio)",
+  "id": 2345,
+  "nextBuses": "L8 - 09:44;L8 - 11:04"
+}, {
+  "position": {
+    "lat": 39.982392,
+    "lon": -0.049526
+  },
+  "name": "Gran Vía T.M. (Barrachina)",
+  "code": "1549",
+  "address": "Gran Vía T.M. (Barrachina)",
+  "id": 2346,
+  "nextBuses": "L8 - 08:41;L8 - 10:04"
+}, {
+  "position": {
+    "lat": 39.985508,
+    "lon": -0.048771
+  },
+  "name": "Av. Dr. Clará (Av.Vila-Real)",
+  "code": "1532",
+  "address": "Av. Dr. Clará (Av.Vila-Real)",
+  "id": 2347,
+  "nextBuses": "L6 - 08:53;L6 - 09:15#L8 - 08:43;L8 - 10:06"
+}, {
+  "position": {
+    "lat": 39.995668,
+    "lon": -0.037477
+  },
+  "name": "Estadio Castalia",
+  "code": "1552",
+  "address": "Estadio Castalia",
+  "id": 2348,
+  "nextBuses": "L2 - 08:42;L2 - 09:07#L8 - 09:43;L8 - 11:03"
+}, {
+  "position": {
+    "lat": 39.977201,
+    "lon": -0.054714
+  },
+  "name": "Gran Vía T. M. (Grupo Diago)",
+  "code": "1536",
+  "address": "Gran Vía T. M. (Grupo Diago)",
+  "id": 2349,
+  "nextBuses": "L7 - 09:38;L7 - 10:48#L8 - 08:38;L8 - 10:01"
+}, {
+  "position": {
+    "lat": 39.984898,
+    "lon": -0.060238
+  },
+  "name": "Quadra Salera (Centro Urban)",
+  "code": "1561",
+  "address": "Quadra Salera (Centro Urban)",
+  "id": 2350,
+  "nextBuses": "L10 - 08:49;L10 - 09:14"
+}, {
+  "position": {
+    "lat": 39.987373,
+    "lon": -0.063329
+  },
+  "name": "Quadra Saboner, nº2",
+  "code": "1563",
+  "address": "Quadra Saboner, nº2",
+  "id": 2351,
+  "nextBuses": "L10 - 08:54;L10 - 09:22"
+}, {
+  "position": {
+    "lat": 39.980543,
+    "lon": 0.013959
+  },
+  "name": "Camí Serradal / Davant Església de Sant Pau",
+  "code": "1555",
+  "address": "Camí Serradal / Davant Església de Sant Pau",
+  "id": 2352,
+  "nextBuses": "LT Serradal - 08:43;LT Serradal - 09:12"
+}, {
+  "position": {
+    "lat": 39.994664,
+    "lon": 0.02236
+  },
+  "name": "Camí Mascarat 5",
+  "code": "1557",
+  "address": "Camí Mascarat 5",
+  "id": 2353,
+  "nextBuses": "LT Serradal - 08:50;LT Serradal - 09:20"
+}, {
+  "position": {
+    "lat": 39.989608,
+    "lon": -0.102733
+  },
+  "name": "Venta Guillamón-Benadresa",
+  "code": "1599",
+  "address": "Venta Guillamón-Benadresa",
+  "id": 2354,
+  "nextBuses": "L6 - 08:40;L6 - 09:07"
+}, {
+  "position": {
+    "lat": 39.999615,
+    "lon": -0.045306
+  },
+  "name": "Av. Castell Vell",
+  "code": "1522",
+  "address": "Av. Castell Vell",
+  "id": 2356,
+  "nextBuses": "L1 - 08:47;L1 - 08:54#L2 - 09:01#L8 - 09:37;L8 - 10:57"
+}, {
+  "position": {
+    "lat": 40.002143,
+    "lon": -0.047282
+  },
+  "name": "Esq. Quadra Segona-Avenida Diputación",
+  "code": "1543",
+  "address": "Esq. Quadra Segona-Avenida Diputación",
+  "id": 2357,
+  "nextBuses": "L8 - 09:36;L8 - 10:56"
+}, {
+  "position": {
+    "lat": 40.00171,
+    "lon": -0.046902
+  },
+  "name": "Av. Diputación (Ambulatorio)",
+  "code": "1548",
+  "address": "Av. Diputación (Ambulatorio)",
+  "id": 2358,
+  "nextBuses": "L1 - 08:46;L1 - 08:53#L8 - 09:36;L8 - 10:56"
+}, {
+  "position": {
+    "lat": 39.989638,
+    "lon": -0.102849
+  },
+  "name": "Benadresa (Venta Guillamón)",
+  "code": "1600",
+  "address": "Benadresa (Venta Guillamón)",
+  "id": 2359,
+  "nextBuses": "L6 - 09:01;L6 - 09:19"
+}, {
+  "position": {
+    "lat": 40.002314,
+    "lon": -0.047649
+  },
+  "name": "Esq. Quadra Segona-Cami Penyeta",
+  "code": "1545",
+  "address": "Esq. Quadra Segona-Cami Penyeta",
+  "id": 2362,
+  "nextBuses": "L8 - 09:04;L8 - 10:26"
+}, {
+  "position": {
+    "lat": 39.985489,
+    "lon": -0.065424
+  },
+  "name": "Quadra Saboner (frente nº41)",
+  "code": "1564",
+  "address": "Quadra Saboner (frente nº41)",
+  "id": 2363,
+  "nextBuses": "L10 - 08:55;L10 - 09:23"
+}, {
+  "position": {
+    "lat": 39.976827,
+    "lon": -0.042155
+  },
+  "name": "Av. Casalduch, nº80",
+  "code": "1523",
+  "address": "Av. Casalduch, nº80",
+  "id": 2364,
+  "nextBuses": "L8 - 09:54;L8 - 11:14"
+}, {
+  "position": {
+    "lat": 39.987825,
+    "lon": 0.01725
+  },
+  "name": "Camí Serradal / Urb. Portes del Pinar",
+  "code": "1553",
+  "address": "Camí Serradal / Urb. Portes del Pinar",
+  "id": 2365,
+  "nextBuses": "LT Serradal - 08:47;LT Serradal - 09:16"
+}, {
+  "position": {
+    "lat": 39.990937,
+    "lon": 0.018703
+  },
+  "name": "Camí Serradal 300",
+  "code": "1558",
+  "address": "Camí Serradal 300",
+  "id": 2366,
+  "nextBuses": "LT Serradal - 08:48;LT Serradal - 09:17"
+}, {
+  "position": {
+    "lat": 39.997562,
+    "lon": -0.09695
+  },
+  "name": "Quadra Portolés (Nuevo tramo)",
+  "code": "1604",
+  "address": "Quadra Portolés (Nuevo tramo)",
+  "id": 2367,
+  "nextBuses": "L6 - 08:46;L6 - 09:13"
+}, {
+  "position": {
+    "lat": 39.997483,
+    "lon": -0.097036
+  },
+  "name": "Quadra Portolés (Nuevo tramo)",
+  "code": "1606",
+  "address": "Quadra Portolés (Nuevo tramo)",
+  "id": 2368,
+  "nextBuses": "L6 - 08:55;L6 - 09:13"
+}, {
+  "position": {
+    "lat": 39.995357,
+    "lon": -0.095955
+  },
+  "name": "Quadra Portolés (cruce Ribesalbes)",
+  "code": "1607",
+  "address": "Quadra Portolés (cruce Ribesalbes)",
+  "id": 2369,
+  "nextBuses": "L6 - 08:44;L6 - 09:12"
+}, {
+  "position": {
+    "lat": 39.983632,
+    "lon": -0.037752
+  },
+  "name": "Pza. La Paz nº 6",
+  "code": "1598",
+  "address": "Pza. La Paz nº 6",
+  "id": 2373,
+  "nextBuses": "Empty"
+}, {
+  "position": {
+    "lat": 39.985654,
+    "lon": -0.042489
+  },
+  "name": "San Vicente nº54",
+  "code": "1405",
+  "address": "San Vicente nº54",
+  "id": 2374,
+  "nextBuses": "L4 - 08:39;L4 - 09:08#L6 - 08:46;L6 - 09:11#L7 - 08:47;L7 - 09:57"
+}, {
+  "position": {
+    "lat": 39.982442,
+    "lon": -0.063201
+  },
+  "name": "Cruce Quadra Salera",
+  "code": "1581",
+  "address": "Cruce Quadra Salera",
+  "id": 2375,
+  "nextBuses": "Empty"
+}, {
+  "position": {
+    "lat": 39.997909,
+    "lon": -0.02055
+  },
+  "name": "Basílica de Lledó",
+  "code": "1634",
+  "address": "Basílica de Lledó",
+  "id": 2376,
+  "nextBuses": "Empty"
+}, {
+  "position": {
+    "lat": 39.979908,
+    "lon": -0.065569
+  },
+  "name": "Centro Comercial B",
+  "code": "1584",
+  "address": "Centro Comercial B",
+  "id": 2377,
+  "nextBuses": "Empty"
+}, {
+  "position": {
+    "lat": 39.992445,
+    "lon": -0.0386
+  },
+  "name": "Ronda Magdalena (Pza.Columbretes)",
+  "code": "1571",
+  "address": "Ronda Magdalena (Pza.Columbretes)",
+  "id": 2378,
+  "nextBuses": "L2 - 08:57;L2 - 09:27#L10 - 09:10"
+}, {
+  "position": {
+    "lat": 39.990669,
+    "lon": -0.039953
+  },
+  "name": "Ronda Magdalena, nº41",
+  "code": "1573",
+  "address": "Ronda Magdalena, nº41",
+  "id": 2379,
+  "nextBuses": "L2 - 08:44;L2 - 09:09#L10 - 09:03"
+}, {
+  "position": {
+    "lat": 39.994414,
+    "lon": -0.068555
+  },
+  "name": "U.J.I.",
+  "code": "1451",
+  "address": "U.J.I.",
+  "id": 2380,
+  "nextBuses": "L10 - 08:48;L10 - 09:15#L11 - 08:59;L11 - 09:29#L12 - 08:59;L12 - 09:59#L15 - 09:00;L15 - 10:00"
+}, {
+  "position": {
+    "lat": 39.987326,
+    "lon": -0.043084
+  },
+  "name": "Paseo Ribalta Impares",
+  "code": "1609",
+  "address": "Paseo Ribalta Impares",
+  "id": 2381,
+  "nextBuses": "Empty"
+}, {
+  "position": {
+    "lat": 39.991944,
+    "lon": -0.039067
+  },
+  "name": "Ronda Magdalena, nº65",
+  "code": "1572",
+  "address": "Ronda Magdalena, nº65",
+  "id": 2382,
+  "nextBuses": "L2 - 08:43;L2 - 09:09#L10 - 09:02"
+}, {
+  "position": {
+    "lat": 39.989365,
+    "lon": -0.040748
+  },
+  "name": "Ronda Magdalena,  nº38",
+  "code": "1422",
+  "address": "Ronda Magdalena,  nº38",
+  "id": 2383,
+  "nextBuses": "L2 - 08:55;L2 - 09:25"
+}, {
+  "position": {
+    "lat": 39.980564,
+    "lon": -0.041783
+  },
+  "name": "Pza. País Valenciá",
+  "code": "1407",
+  "address": "Pza. País Valenciá",
+  "id": 2384,
+  "nextBuses": "L1 - 08:42;L1 - 09:02#L12 - 08:39;L12 - 09:38"
+}, {
+  "position": {
+    "lat": 39.989122,
+    "lon": -0.041098
+  },
+  "name": "Ronda Magdalena, nº23",
+  "code": "1574",
+  "address": "Ronda Magdalena, nº23",
+  "id": 2386,
+  "nextBuses": "L2 - 08:45;L2 - 09:10#L10 - 09:04"
+}, {
+  "position": {
+    "lat": 39.993658,
+    "lon": -0.038138
+  },
+  "name": "Ronda Magdalena, nº105",
+  "code": "1575",
+  "address": "Ronda Magdalena, nº105",
+  "id": 2387,
+  "nextBuses": "L2 - 08:42;L2 - 09:08#L10 - 09:02;L10 - 09:31"
+}, {
+  "position": {
+    "lat": 39.987735,
+    "lon": -0.052048
+  },
+  "name": "Pintor Oliet (FFCC)",
+  "code": "1434",
+  "address": "Pintor Oliet (FFCC)",
+  "id": 2388,
+  "nextBuses": "L8 - 08:47;L8 - 10:09"
+}, {
+  "position": {
+    "lat": 39.97779,
+    "lon": -0.063365
+  },
+  "name": "Rotonda Enrique Gimeno",
+  "code": "1649",
+  "address": "Rotonda Enrique Gimeno",
+  "id": 2389,
+  "nextBuses": "Empty"
+}, {
+  "position": {
+    "lat": 39.9909,
+    "lon": -0.030669
+  },
+  "name": "Av. de Lledó",
+  "code": "1633",
+  "address": "Av. de Lledó",
+  "id": 2390,
+  "nextBuses": "Empty"
+}, {
+  "position": {
+    "lat": 39.98227,
+    "lon": -0.061018
+  },
+  "name": "Pista atletismo Gaetá H. A",
+  "code": "1641",
+  "address": "Pista atletismo Gaetá H. A",
+  "id": 2391,
+  "nextBuses": "Empty"
+}, {
+  "position": {
+    "lat": 39.995344,
+    "lon": -0.039939
+  },
+  "name": "Huesca (frente Trinquet)",
+  "code": "1577",
+  "address": "Huesca (frente Trinquet)",
+  "id": 2392,
+  "nextBuses": "L10 - 09:00;L10 - 09:29"
+}, {
+  "position": {
+    "lat": 39.983033,
+    "lon": -0.045342
+  },
+  "name": "Padre Jofre (Rep. Argentina)",
+  "code": "1588",
+  "address": "Padre Jofre (Rep. Argentina)",
+  "id": 2393,
+  "nextBuses": "L4 - 08:41;L4 - 09:10#L7 - 08:50;L7 - 10:00"
+}, {
+  "position": {
+    "lat": 39.988959,
+    "lon": -0.044606
+  },
+  "name": "Paseo Ribalta, nº20",
+  "code": "1448",
+  "address": "Paseo Ribalta, nº20",
+  "id": 2394,
+  "nextBuses": "L12 - 08:43;L12 - 09:43#L15 - 08:50;L15 - 09:50"
+}, {
+  "position": {
+    "lat": 39.991416,
+    "lon": -0.026571
+  },
+  "name": "Pintor Carbó (Esq. Columbretes)",
+  "code": "1657",
+  "address": "Pintor Carbó (Esq. Columbretes)",
+  "id": 2395,
+  "nextBuses": "Empty"
+}, {
+  "position": {
+    "lat": 39.989771,
+    "lon": -0.051363
+  },
+  "name": "Paseo Morella (FFCC)",
+  "code": "1447",
+  "address": "Paseo Morella (FFCC)",
+  "id": 2396,
+  "nextBuses": "L10 - 09:04;L10 - 09:29#L11 - 09:07;L11 - 09:37#L15 - 09:07;L15 - 10:07"
+}, {
+  "position": {
+    "lat": 39.994021,
+    "lon": -0.025228
+  },
+  "name": "Auditorio/Palacio de Congresos",
+  "code": "1638",
+  "address": "Auditorio/Palacio de Congresos",
+  "id": 2397,
+  "nextBuses": "Empty"
+}, {
+  "position": {
+    "lat": 40.000378,
+    "lon": -0.052277
+  },
+  "name": "Quadra Segona, nº57",
+  "code": "1652",
+  "address": "Quadra Segona, nº57",
+  "id": 2398,
+  "nextBuses": "Empty"
+}, {
+  "position": {
+    "lat": 40.001883,
+    "lon": -0.048031
+  },
+  "name": "Quadra Segona,nº15",
+  "code": "1653",
+  "address": "Quadra Segona,nº15",
+  "id": 2399,
+  "nextBuses": "Empty"
+}, {
+  "position": {
+    "lat": 40.007334,
+    "lon": -0.047035
+  },
+  "name": "Tetuán (Policía y Bomberos)",
+  "code": "1568",
+  "address": "Tetuán (Policía y Bomberos)",
+  "id": 2400,
+  "nextBuses": "L10 - 08:49;L10 - 09:19"
+}, {
+  "position": {
+    "lat": 39.998623,
+    "lon": -0.047012
+  },
+  "name": "Grupo S.Marcos y S.Agustin",
+  "code": "1659",
+  "address": "Grupo S.Marcos y S.Agustin",
+  "id": 2401,
+  "nextBuses": "Empty"
+}, {
+  "position": {
+    "lat": 39.973852,
+    "lon": -0.053746
+  },
+  "name": "Músico Pascual Asensio nº4",
+  "code": "1460",
+  "address": "Músico Pascual Asensio nº4",
+  "id": 2402,
+  "nextBuses": "L1 - 08:47;L1 - 09:06#L2 - 08:55;L2 - 09:20#L8 - 09:59#L15 - 09:19;L15 - 10:20"
+}, {
+  "position": {
+    "lat": 39.980613,
+    "lon": -0.071686
+  },
+  "name": "Grupo S. Lorenzo A",
+  "code": "1643",
+  "address": "Grupo S. Lorenzo A",
+  "id": 2403,
+  "nextBuses": "Empty"
+}, {
+  "position": {
+    "lat": 40.001975,
+    "lon": -0.042135
+  },
+  "name": "Hospital General",
+  "code": "1518",
+  "address": "Hospital General",
+  "id": 2404,
+  "nextBuses": "L1 - 08:50;L1 - 08:57#L2 - 08:38;L2 - 09:04#L10 - 08:55;L10 - 09:24#L8 - 09:39;L8 - 10:59"
+}, {
+  "position": {
+    "lat": 39.997287,
+    "lon": -0.06958
+  },
+  "name": "U.J.I. rotonda",
+  "code": "1654",
+  "address": "U.J.I. rotonda",
+  "id": 2405,
+  "nextBuses": "Empty"
+}, {
+  "position": {
+    "lat": 39.979726,
+    "lon": -0.034712
+  },
+  "name": "Pza. Dr.Marañón, nº7",
+  "code": "1639",
+  "address": "Pza. Dr.Marañón, nº7",
+  "id": 2406,
+  "nextBuses": "L4 - 08:50;L4 - 09:19"
+}, {
+  "position": {
+    "lat": 39.977061,
+    "lon": 0.012511
+  },
+  "name": "Camí Serradal 10",
+  "code": "1556",
+  "address": "Camí Serradal 10",
+  "id": 2407,
+  "nextBuses": "LT Serradal - 08:41;LT Serradal - 09:11"
+}, {
+  "position": {
+    "lat": 40.001981,
+    "lon": -0.075341
+  },
+  "name": "Rotonda Hospital La Magdalena",
+  "code": "1664",
+  "address": "Rotonda Hospital La Magdalena",
+  "id": 2409,
+  "nextBuses": "Empty"
+}, {
+  "position": {
+    "lat": 39.974947,
+    "lon": -0.056075
+  },
+  "name": "Músico Pascual Asencio nº42",
+  "code": "1459",
+  "address": "Músico Pascual Asencio nº42",
+  "id": 2411,
+  "nextBuses": "L1 - 08:48#L2 - 08:56;L2 - 09:21#L15 - 09:20;L15 - 10:20"
+}, {
+  "position": {
+    "lat": 39.980301,
+    "lon": -0.046642
+  },
+  "name": "Parque Oeste (Instituto F.P.)",
+  "code": "1585",
+  "address": "Parque Oeste (Instituto F.P.)",
+  "id": 2412,
+  "nextBuses": "L4 - 08:44;L4 - 09:12#L7 - 09:42;L7 - 10:52"
+}, {
+  "position": {
+    "lat": 39.996119,
+    "lon": -0.053374
+  },
+  "name": "Quadra Borriolenc (S.Enrique)",
+  "code": "1661",
+  "address": "Quadra Borriolenc (S.Enrique)",
+  "id": 2413,
+  "nextBuses": "Empty"
+}, {
+  "position": {
+    "lat": 39.986809,
+    "lon": -0.042568
+  },
+  "name": "Ronda Mijares, nº13",
+  "code": "1613",
+  "address": "Ronda Mijares, nº13",
+  "id": 2414,
+  "nextBuses": "L2 - 08:54;L2 - 09:24"
+}, {
+  "position": {
+    "lat": 39.989182,
+    "lon": -0.0336
+  },
+  "name": "Av. Lledó 12, Pza. Mª Agustina",
+  "code": "1637",
+  "address": "Av. Lledó 12, Pza. Mª Agustina",
+  "id": 2415,
+  "nextBuses": "Empty"
+}, {
+  "position": {
+    "lat": 39.994724,
+    "lon": -0.03719
+  },
+  "name": "S.Roque (Pza. Teodoro Izquierdo)",
+  "code": "1671",
+  "address": "S.Roque (Pza. Teodoro Izquierdo)",
+  "id": 2416,
+  "nextBuses": "L1 - 08:53;L1 - 09:00"
+}, {
+  "position": {
+    "lat": 39.978396,
+    "lon": -0.077705
+  },
+  "name": "Quadra Morteras",
+  "code": "1646",
+  "address": "Quadra Morteras",
+  "id": 2417,
+  "nextBuses": "L4 - 08:55;L4 - 09:23"
+}, {
+  "position": {
+    "lat": 39.992529,
+    "lon": -0.036594
+  },
+  "name": "S.Roque nº95",
+  "code": "1670",
+  "address": "S.Roque nº95",
+  "id": 2418,
+  "nextBuses": "L1 - 08:54;L1 - 09:02"
+}, {
+  "position": {
+    "lat": 39.983642,
+    "lon": -0.037775
+  },
+  "name": "Pza. La Paz nº6",
+  "code": "1632",
+  "address": "Pza. La Paz nº6",
+  "id": 2419,
+  "nextBuses": "L1 - 08:39;L1 - 08:54#L6 - 08:44;L6 - 09:09"
+}, {
+  "position": {
+    "lat": 39.987037,
+    "lon": -0.035298
+  },
+  "name": "Mayor nº82 (Iglesia S.Agustín)",
+  "code": "1673",
+  "address": "Mayor nº82 (Iglesia S.Agustín)",
+  "id": 2420,
+  "nextBuses": "L1 - 08:41;L1 - 08:55"
+}, {
+  "position": {
+    "lat": 39.985073,
+    "lon": -0.043369
+  },
+  "name": "Ronda Mijares, nº35",
+  "code": "1415",
+  "address": "Ronda Mijares, nº35",
+  "id": 2421,
+  "nextBuses": "L2 - 08:53;L2 - 09:23#L12 - 08:42;L12 - 09:41#L15 - 08:48;L15 - 09:48"
+}, {
+  "position": {
+    "lat": 39.98744,
+    "lon": -0.04295
+  },
+  "name": "Paseo Ribalta Impares",
+  "code": "1605",
+  "address": "Paseo Ribalta Impares",
+  "id": 2422,
+  "nextBuses": "L2 - 08:46;L2 - 09:11#L6 - 08:50;L6 - 09:12"
+}, {
+  "position": {
+    "lat": 40.001039,
+    "lon": -0.075135
+  },
+  "name": "Camino Enramada",
+  "code": "1663",
+  "address": "Camino Enramada",
+  "id": 2423,
+  "nextBuses": "Empty"
+}, {
+  "position": {
+    "lat": 39.978433,
+    "lon": -0.075994
+  },
+  "name": "Quadra Morteras (fte.C.Univ.)",
+  "code": "1645",
+  "address": "Quadra Morteras (fte.C.Univ.)",
+  "id": 2424,
+  "nextBuses": "L4 - 08:57;L4 - 09:25"
+}, {
+  "position": {
+    "lat": 39.981865,
+    "lon": -0.039093
+  },
+  "name": "Herrero 15",
+  "code": "1579",
+  "address": "Herrero 15",
+  "id": 2425,
+  "nextBuses": "L1 - 08:53#L4 - 08:47;L4 - 09:16#L7 - 09:46"
+}, {
+  "position": {
+    "lat": 39.99366,
+    "lon": -0.101203
+  },
+  "name": "Quadra Breva (nº39)",
+  "code": "1619",
+  "address": "Quadra Breva (nº39)",
+  "id": 2426,
+  "nextBuses": "L6 - 08:41;L6 - 09:09"
+}, {
+  "position": {
+    "lat": 39.991028,
+    "lon": -0.030757
+  },
+  "name": "Av. de Lledó (Colegio Consolación)",
+  "code": "1636",
+  "address": "Av. de Lledó (Colegio Consolación)",
+  "id": 2427,
+  "nextBuses": "Empty"
+}, {
+  "position": {
+    "lat": 39.981147,
+    "lon": -0.049088
+  },
+  "name": "Jacinto Benavente 9",
+  "code": "1597",
+  "address": "Jacinto Benavente 9",
+  "id": 2428,
+  "nextBuses": "L4 - 08:43;L4 - 09:12#L7 - 09:41;L7 - 10:51"
+}, {
+  "position": {
+    "lat": 39.996237,
+    "lon": -0.100544
+  },
+  "name": "Quadra Breva (Ambulatorio)",
+  "code": "1623",
+  "address": "Quadra Breva (Ambulatorio)",
+  "id": 2429,
+  "nextBuses": "L6 - 08:58;L6 - 09:16"
+}, {
+  "position": {
+    "lat": 39.996206,
+    "lon": -0.100358
+  },
+  "name": "Quadra Breva (Ambulatorio)",
+  "code": "1622",
+  "address": "Quadra Breva (Ambulatorio)",
+  "id": 2430,
+  "nextBuses": "L6 - 08:43;L6 - 09:10"
+}, {
+  "position": {
+    "lat": 39.979653,
+    "lon": -0.040675
+  },
+  "name": "Herrero 41",
+  "code": "1578",
+  "address": "Herrero 41",
+  "id": 2431,
+  "nextBuses": "L1 - 08:52#L4 - 08:46;L4 - 09:15#L7 - 09:45"
+}, {
+  "position": {
+    "lat": 39.997203,
+    "lon": -0.050692
+  },
+  "name": "Quadra Borriolenc, nº10",
+  "code": "1660",
+  "address": "Quadra Borriolenc, nº10",
+  "id": 2432,
+  "nextBuses": "Empty"
+}, {
+  "position": {
+    "lat": 39.980727,
+    "lon": -0.071599
+  },
+  "name": "Grupo S. Lorenzo B",
+  "code": "1642",
+  "address": "Grupo S. Lorenzo B",
+  "id": 2433,
+  "nextBuses": "L4 - 08:52;L4 - 09:21"
+}, {
+  "position": {
+    "lat": 39.993693,
+    "lon": -0.101459
+  },
+  "name": "Quadra Breva (s/n)",
+  "code": "1620",
+  "address": "Quadra Breva (s/n)",
+  "id": 2434,
+  "nextBuses": "L6 - 08:59;L6 - 09:17"
+}, {
+  "position": {
+    "lat": 39.97737,
+    "lon": -0.0317
+  },
+  "name": "Pza. Fdo.Católico (Cruz Roja)",
+  "code": "1650",
+  "address": "Pza. Fdo.Católico (Cruz Roja)",
+  "id": 2435,
+  "nextBuses": "L4 - 08:52;L4 - 09:21"
+}, {
+  "position": {
+    "lat": 39.99151,
+    "lon": -0.028452
+  },
+  "name": "Pintor Carbó (Parque)",
+  "code": "1656",
+  "address": "Pintor Carbó (Parque)",
+  "id": 2436,
+  "nextBuses": "Empty"
+}, {
+  "position": {
+    "lat": 39.995463,
+    "lon": -0.096255
+  },
+  "name": "Quadra Portolés (cruce Ribesalbes)",
+  "code": "1608",
+  "address": "Quadra Portolés (cruce Ribesalbes)",
+  "id": 2437,
+  "nextBuses": "L6 - 08:56;L6 - 09:14"
+}, {
+  "position": {
+    "lat": 39.997095,
+    "lon": -0.050685
+  },
+  "name": "Quadra Borriolenc (S.Bartolomé)",
+  "code": "1662",
+  "address": "Quadra Borriolenc (S.Bartolomé)",
+  "id": 2438,
+  "nextBuses": "Empty"
+}, {
+  "position": {
+    "lat": 39.976095,
+    "lon": -0.070439
+  },
+  "name": "Leroy Merlín (Ciudad Transporte)",
+  "code": "1596",
+  "address": "Leroy Merlín (Ciudad Transporte)",
+  "id": 2439,
+  "nextBuses": "L7 - 09:15;L7 - 10:25"
+}, {
+  "position": {
+    "lat": 39.994679,
+    "lon": -0.037555
+  },
+  "name": "Rda. Magdalena (Pza. Teodoro Izquierdo)",
+  "code": "1576",
+  "address": "Rda. Magdalena (Pza. Teodoro Izquierdo)",
+  "id": 2440,
+  "nextBuses": "L2 - 08:58;L2 - 09:28#L10 - 09:11"
+}, {
+  "position": {
+    "lat": 39.993245,
+    "lon": -0.062574
+  },
+  "name": "José Mª Mulet, nº24",
+  "code": "1464",
+  "address": "José Mª Mulet, nº24",
+  "id": 2441,
+  "nextBuses": "L10 - 08:45;L10 - 09:13#L11 - 08:46;L11 - 09:05#L15 - 08:57;L15 - 09:57"
+}, {
+  "position": {
+    "lat": 39.993135,
+    "lon": -0.062508
+  },
+  "name": "José Mª Mulet",
+  "code": "1465",
+  "address": "José Mª Mulet",
+  "id": 2442,
+  "nextBuses": "L10 - 08:59;L10 - 09:24#L11 - 09:02;L11 - 09:32#L15 - 09:02;L15 - 10:02"
+}, {
+  "position": {
+    "lat": 39.989594,
+    "lon": -0.035585
+  },
+  "name": "Sanahuja nº49",
+  "code": "1669",
+  "address": "Sanahuja nº49",
+  "id": 2443,
+  "nextBuses": "L1 - 08:56"
+}, {
+  "position": {
+    "lat": 39.980347,
+    "lon": -0.042788
+  },
+  "name": "Ronda Mijares, nº109",
+  "code": "1454",
+  "address": "Ronda Mijares, nº109",
+  "id": 2444,
+  "nextBuses": "L2 - 08:51;L2 - 09:21#L12 - 08:39;L12 - 09:38#L15 - 08:46;L15 - 09:46"
+}, {
+  "position": {
+    "lat": 39.987891,
+    "lon": -0.041924
+  },
+  "name": "Ronda Magdalena nº10",
+  "code": "1416",
+  "address": "Ronda Magdalena nº10",
+  "id": 2445,
+  "nextBuses": "L2 - 08:54;L2 - 09:24"
+}, {
+  "position": {
+    "lat": 39.974809,
+    "lon": -0.056304
+  },
+  "name": "Polideportivo Ciudad de Castellón",
+  "code": "1435",
+  "address": "Polideportivo Ciudad de Castellón",
+  "id": 2446,
+  "nextBuses": "L1 - 08:44;L1 - 08:59#L2 - 08:44;L2 - 09:14#L15 - 08:39;L15 - 09:39"
+}, {
+  "position": {
+    "lat": 39.982358,
+    "lon": -0.063064
+  },
+  "name": "Rtda. Salera (Pista Atletismo)",
+  "code": "1569",
+  "address": "Rtda. Salera (Pista Atletismo)",
+  "id": 2447,
+  "nextBuses": "L10 - 08:47;L10 - 09:12"
+}, {
+  "position": {
+    "lat": 39.982393,
+    "lon": -0.060908
+  },
+  "name": "Pista atletismo Gaetá H. B",
+  "code": "1640",
+  "address": "Pista atletismo Gaetá H. B",
+  "id": 2448,
+  "nextBuses": "Empty"
+}, {
+  "position": {
+    "lat": 39.968501,
+    "lon": -0.063306
+  },
+  "name": "Grupo Lourdes B",
+  "code": "1586",
+  "address": "Grupo Lourdes B",
+  "id": 2449,
+  "nextBuses": "L7 - 09:02;L7 - 10:12"
+}, {
+  "position": {
+    "lat": 39.998277,
+    "lon": -0.068507
+  },
+  "name": "Rotonda (escult. silla) A",
+  "code": "1655",
+  "address": "Rotonda (escult. silla) A",
+  "id": 2450,
+  "nextBuses": "Empty"
+}, {
+  "position": {
+    "lat": 39.989275,
+    "lon": -0.033702
+  },
+  "name": "Av.de Lledó 3 (Pza. Mª Agustina)",
+  "code": "1635",
+  "address": "Av.de Lledó 3 (Pza. Mª Agustina)",
+  "id": 2451,
+  "nextBuses": "Empty"
+}, {
+  "position": {
+    "lat": 39.999366,
+    "lon": -0.044345
+  },
+  "name": "Quadra Borriolenc (Tombatossals)",
+  "code": "1425",
+  "address": "Quadra Borriolenc (Tombatossals)",
+  "id": 2452,
+  "nextBuses": "L8 - 08:58;L8 - 10:20"
+}, {
+  "position": {
+    "lat": 39.987907,
+    "lon": -0.034112
+  },
+  "name": "Pza. Mª Agustina (Gobernador)",
+  "code": "1408",
+  "address": "Pza. Mª Agustina (Gobernador)",
+  "id": 2453,
+  "nextBuses": "L1 - 08:57#L11 - 08:41;L11 - 09:13"
+}, {
+  "position": {
+    "lat": 40.006496,
+    "lon": -0.041729
+  },
+  "name": "Grupo S. Antonio",
+  "code": "1567",
+  "address": "Grupo S. Antonio",
+  "id": 2454,
+  "nextBuses": "L10 - 08:52;L10 - 09:21"
+}, {
+  "position": {
+    "lat": 39.988768,
+    "lon": -0.037811
+  },
+  "name": "Pza. Clavé nº10",
+  "code": "1413",
+  "address": "Pza. Clavé nº10",
+  "id": 2455,
+  "nextBuses": "L11 - 08:40;L11 - 09:12"
+}, {
+  "position": {
+    "lat": 39.980797,
+    "lon": -0.070074
+  },
+  "name": "Grupo S. Lorenzo",
+  "code": "1565",
+  "address": "Grupo S. Lorenzo",
+  "id": 2456,
+  "nextBuses": "L10 - 08:39;L10 - 09:04"
+}, {
+  "position": {
+    "lat": 39.981299,
+    "lon": -0.074596
+  },
+  "name": "Quadra los Cubos",
+  "code": "1647",
+  "address": "Quadra los Cubos",
+  "id": 2457,
+  "nextBuses": "L4 - 08:59;L4 - 09:28"
+}, {
+  "position": {
+    "lat": 39.984544,
+    "lon": -0.042408
+  },
+  "name": "Navarra nº93",
+  "code": "1621",
+  "address": "Navarra nº93",
+  "id": 2458,
+  "nextBuses": "L6 - 08:43;L6 - 09:07"
+}, {
+  "position": {
+    "lat": 39.991247,
+    "lon": -0.027328
+  },
+  "name": "Pintor Carbó",
+  "code": "1651",
+  "address": "Pintor Carbó",
+  "id": 2459,
+  "nextBuses": "Empty"
+}, {
+  "position": {
+    "lat": 39.973259,
+    "lon": -0.053104
+  },
+  "name": "Músico Pascual Asencio nº3",
+  "code": "1458",
+  "address": "Músico Pascual Asencio nº3",
+  "id": 2460,
+  "nextBuses": "L1 - 08:46;L1 - 09:01#L2 - 08:46;L2 - 09:16#L15 - 08:41;L15 - 09:41"
+}, {
+  "position": {
+    "lat": 39.985014,
+    "lon": -0.036849
+  },
+  "name": "Mayor (Sta.Clara)",
+  "code": "1674",
+  "address": "Mayor (Sta.Clara)",
+  "id": 2461,
+  "nextBuses": "L1 - 08:40;L1 - 08:54"
+}, {
+  "position": {
+    "lat": 40.000341,
+    "lon": -0.041972
+  },
+  "name": "Quadra Borriolenc",
+  "code": "1666",
+  "address": "Quadra Borriolenc",
+  "id": 2462,
+  "nextBuses": "L2 - 09:00;L2 - 09:30"
+}, {
+  "position": {
+    "lat": 39.979973,
+    "lon": -0.06066
+  },
+  "name": "Centro Comercial (Salera)",
+  "code": "1583",
+  "address": "Centro Comercial (Salera)",
+  "id": 2463,
+  "nextBuses": "Empty"
+}, {
+  "position": {
+    "lat": 39.982132,
+    "lon": -0.035112
+  },
+  "name": "Maestro Ripollés (Pza. Fadrell)",
+  "code": "1594",
+  "address": "Maestro Ripollés (Pza. Fadrell)",
+  "id": 2464,
+  "nextBuses": "L7 - 09:48"
+}, {
+  "position": {
+    "lat": 39.981743,
+    "lon": -0.036077
+  },
+  "name": "Pza. Fadrell ",
+  "code": "1411",
+  "address": "Pza. Fadrell ",
+  "id": 2465,
+  "nextBuses": "L1 - 08:40;L1 - 09:00#L4 - 08:49;L4 - 09:18#L8 - 09:51;L8 - 11:11"
+}, {
+  "position": {
+    "lat": 39.982964,
+    "lon": 0.014946
+  },
+  "name": "Camí Serradal / Bar Daki",
+  "code": "1554",
+  "address": "Camí Serradal / Bar Daki",
+  "id": 2466,
+  "nextBuses": "LT Serradal - 08:44;LT Serradal - 09:14"
+}, {
+  "position": {
+    "lat": 39.968672,
+    "lon": -0.062936
+  },
+  "name": "Grupo Lourdes",
+  "code": "1587",
+  "address": "Grupo Lourdes",
+  "id": 2467,
+  "nextBuses": "Empty"
+}, {
+  "position": {
+    "lat": 39.979527,
+    "lon": -0.05267
+  },
+  "name": "Gran Vía T. M. (Hospital) B",
+  "code": "1590",
+  "address": "Gran Vía T. M. (Hospital) B",
+  "id": 2468,
+  "nextBuses": "L4 - 08:45;L4 - 09:13#L7 - 08:53;L7 - 10:03"
+}, {
+  "position": {
+    "lat": 39.98318,
+    "lon": -0.028884
+  },
+  "name": "Pablo Iglesias 10",
+  "code": "1423",
+  "address": "Pablo Iglesias 10",
+  "id": 2469,
+  "nextBuses": "L4 - 09:01;L4 - 09:31#L7 - 08:41;L7 - 09:51"
+}, {
+  "position": {
+    "lat": 39.982672,
+    "lon": -0.043191
+  },
+  "name": "Ronda Mijares, nº87",
+  "code": "1406",
+  "address": "Ronda Mijares, nº87",
+  "id": 2470,
+  "nextBuses": "L2 - 08:52;L2 - 09:22#L12 - 08:41;L12 - 09:40#L15 - 08:47;L15 - 09:47"
+}, {
+  "position": {
+    "lat": 39.996211,
+    "lon": -0.053452
+  },
+  "name": "Grupo S. Enrique",
+  "code": "1658",
+  "address": "Grupo S. Enrique",
+  "id": 2471,
+  "nextBuses": "Empty"
+}, {
+  "position": {
+    "lat": 39.980882,
+    "lon": -0.029908
+  },
+  "name": "Grupo Grapa",
+  "code": "1589",
+  "address": "Grupo Grapa",
+  "id": 2472,
+  "nextBuses": "L4 - 08:59;L4 - 09:29#L7 - 08:40;L7 - 09:50"
+}, {
+  "position": {
+    "lat": 39.977215,
+    "lon": -0.054936
+  },
+  "name": "Gran Vía T.M. (Grupo Diago)",
+  "code": "1592",
+  "address": "Gran Vía T.M. (Grupo Diago)",
+  "id": 2473,
+  "nextBuses": "L7 - 08:55;L7 - 10:04"
+}, {
+  "position": {
+    "lat": 39.985076,
+    "lon": -0.036811
+  },
+  "name": "Mayor (Sta. Clara)",
+  "code": "1675",
+  "address": "Mayor (Sta. Clara)",
+  "id": 2474,
+  "nextBuses": "Empty"
+}, {
+  "position": {
+    "lat": 39.987818,
+    "lon": -0.042606
+  },
+  "name": "Paseo Ribalta (Farola)",
+  "code": "1404",
+  "address": "Paseo Ribalta (Farola)",
+  "id": 2475,
+  "nextBuses": "L10 - 09:05"
+}, {
+  "position": {
+    "lat": 39.974684,
+    "lon": -0.057058
+  },
+  "name": "Gran Vía T.M. (Polideportivo) B",
+  "code": "1593",
+  "address": "Gran Vía T.M. (Polideportivo) B",
+  "id": 2476,
+  "nextBuses": "L7 - 09:37;L7 - 10:47"
+}, {
+  "position": {
+    "lat": 39.974894,
+    "lon": -0.057178
+  },
+  "name": "Gran Vía T.M. (Polideportivo) A",
+  "code": "1595",
+  "address": "Gran Vía T.M. (Polideportivo) A",
+  "id": 2477,
+  "nextBuses": "L7 - 08:56;L7 - 10:06"
+}, {
+  "position": {
+    "lat": 39.981424,
+    "lon": -0.074918
+  },
+  "name": "Grupo S. Fermín",
+  "code": "1644",
+  "address": "Grupo S. Fermín",
+  "id": 2478,
+  "nextBuses": "L4 - 08:54;L4 - 09:22"
+}, {
+  "position": {
+    "lat": 39.977382,
+    "lon": -0.032893
+  },
+  "name": "Godofredo Buenos Aires (Cruz Roja)",
+  "code": "1501",
+  "address": "Godofredo Buenos Aires (Cruz Roja)",
+  "id": 2479,
+  "nextBuses": "L12 - 09:35"
+}, {
+  "position": {
+    "lat": 39.983845,
+    "lon": -0.035529
+  },
+  "name": "Escultor Viciano (Pza. Borrull)",
+  "code": "1410",
+  "address": "Escultor Viciano (Pza. Borrull)",
+  "id": 2480,
+  "nextBuses": "L4 - 09:05#L7 - 08:45;L7 - 09:55"
+}, {
+  "position": {
+    "lat": 39.984222,
+    "lon": -0.037913
+  },
+  "name": "Gasset 5",
+  "code": "1412",
+  "address": "Gasset 5",
+  "id": 2481,
+  "nextBuses": "L4 - 09:06#L7 - 08:46;L7 - 09:56"
+}, {
+  "position": {
+    "lat": 39.994945,
+    "lon": -0.037017
+  },
+  "name": "Estadio Castalia",
+  "code": "1672",
+  "address": "Estadio Castalia",
+  "id": 2482,
+  "nextBuses": "L1 - 08:45"
+}, {
+  "position": {
+    "lat": 39.993823,
+    "lon": -0.05982
+  },
+  "name": "Escuela Oficial Idiomas B",
+  "code": "1453",
+  "address": "Escuela Oficial Idiomas B",
+  "id": 2483,
+  "nextBuses": "L10 - 09:00;L10 - 09:25#L11 - 09:03;L11 - 09:33#L15 - 09:03;L15 - 10:03"
+}, {
+  "position": {
+    "lat": 39.990901,
+    "lon": -0.111567
+  },
+  "name": "Ctra. Ribesalbes (Grupo Pilar s/n)",
+  "code": "1614",
+  "address": "Ctra. Ribesalbes (Grupo Pilar s/n)",
+  "id": 2484,
+  "nextBuses": "L6 - 09:04"
+}, {
+  "position": {
+    "lat": 39.993952,
+    "lon": -0.05992
+  },
+  "name": "Escuela Oficial Idiomas A",
+  "code": "1455",
+  "address": "Escuela Oficial Idiomas A",
+  "id": 2485,
+  "nextBuses": "L10 - 08:44;L10 - 09:12#L11 - 08:45;L11 - 09:04#L15 - 08:56;L15 - 09:56"
+}, {
+  "position": {
+    "lat": 39.990086,
+    "lon": -0.107046
+  },
+  "name": "Ctra. Ribesalbes (Grupo Pilar nº151)",
+  "code": "1615",
+  "address": "Ctra. Ribesalbes (Grupo Pilar nº151)",
+  "id": 2486,
+  "nextBuses": "L6 - 09:05"
+}, {
+  "position": {
+    "lat": 39.989444,
+    "lon": -0.103724
+  },
+  "name": "Ctra. Ribesalbes (Grupo Pilar nº125)",
+  "code": "1616",
+  "address": "Ctra. Ribesalbes (Grupo Pilar nº125)",
+  "id": 2487,
+  "nextBuses": "L6 - 08:38;L6 - 09:07"
+}, {
+  "position": {
+    "lat": 39.990236,
+    "lon": -0.106957
+  },
+  "name": "Ctra. Ribesalbes (Grupo Pilar nº50)",
+  "code": "1617",
+  "address": "Ctra. Ribesalbes (Grupo Pilar nº50)",
+  "id": 2488,
+  "nextBuses": "L6 - 09:02;L6 - 09:20"
+}, {
+  "position": {
+    "lat": 39.98956,
+    "lon": -0.10366
+  },
+  "name": "Ctra. Ribesalbes (Grupo Pilar nº40)",
+  "code": "1618",
+  "address": "Ctra. Ribesalbes (Grupo Pilar nº40)",
+  "id": 2489,
+  "nextBuses": "L6 - 09:01;L6 - 09:19"
+}, {
+  "position": {
+    "lat": 39.979902,
+    "lon": -0.068871
+  },
+  "name": "Ctra. Ribesalbes, nº170",
+  "code": "1648",
+  "address": "Ctra. Ribesalbes, nº170",
+  "id": 2490,
+  "nextBuses": "L4 - 08:51;L4 - 09:20"
+}, {
+  "position": {
+    "lat": 39.992695,
+    "lon": -0.055465
+  },
+  "name": "Ctra. Borriol (Tanatorio)",
+  "code": "1473",
+  "address": "Ctra. Borriol (Tanatorio)",
+  "id": 2491,
+  "nextBuses": "L8 - 08:51;L8 - 10:13"
+}, {
+  "position": {
+    "lat": 39.99626,
+    "lon": -0.092836
+  },
+  "name": "Ctra. Alcora (nº256)",
+  "code": "1624",
+  "address": "Ctra. Alcora (nº256)",
+  "id": 2492,
+  "nextBuses": "L6 - 08:50;L6 - 09:08"
+}, {
+  "position": {
+    "lat": 39.995318,
+    "lon": -0.091541
+  },
+  "name": "Ctra. Alcora nº391 (Venta Rosita)",
+  "code": "1625",
+  "address": "Ctra. Alcora nº391 (Venta Rosita)",
+  "id": 2493,
+  "nextBuses": "L6 - 08:50;L6 - 09:18"
+}, {
+  "position": {
+    "lat": 39.997822,
+    "lon": -0.095487
+  },
+  "name": "Ctra. Alcora (Centro Penitenciario)",
+  "code": "1626",
+  "address": "Ctra. Alcora (Centro Penitenciario)",
+  "id": 2494,
+  "nextBuses": "L6 - 08:49;L6 - 09:16"
+}, {
+  "position": {
+    "lat": 39.998076,
+    "lon": -0.09557
+  },
+  "name": "Ctra. Alcora (Centro Penitenciario)",
+  "code": "1627",
+  "address": "Ctra. Alcora (Centro Penitenciario)",
+  "id": 2495,
+  "nextBuses": "L6 - 08:51;L6 - 09:10"
+}, {
+  "position": {
+    "lat": 39.996077,
+    "lon": -0.092715
+  },
+  "name": "Ctra. Alcora (Venta Rosita)",
+  "code": "1628",
+  "address": "Ctra. Alcora (Venta Rosita)",
+  "id": 2496,
+  "nextBuses": "L6 - 08:50;L6 - 09:17"
+}, {
+  "position": {
+    "lat": 39.995536,
+    "lon": -0.091614
+  },
+  "name": "Ctra. Alcora (Venta Rosita)",
+  "code": "1629",
+  "address": "Ctra. Alcora (Venta Rosita)",
+  "id": 2497,
+  "nextBuses": "L6 - 08:50;L6 - 09:08"
+}, {
+  "position": {
+    "lat": 39.992676,
+    "lon": -0.086055
+  },
+  "name": "Ctra. Alcora (Venta Nueva)",
+  "code": "1630",
+  "address": "Ctra. Alcora (Venta Nueva)",
+  "id": 2498,
+  "nextBuses": "L6 - 08:53;L6 - 09:20"
+}, {
+  "position": {
+    "lat": 39.993118,
+    "lon": -0.086786
+  },
+  "name": "Ctra. Alcora (Venta nueva)",
+  "code": "1631",
+  "address": "Ctra. Alcora (Venta nueva)",
+  "id": 2499,
+  "nextBuses": "L6 - 08:48;L6 - 09:06"
+}, {
+  "position": {
+    "lat": 39.986599,
+    "lon": -0.058046
+  },
+  "name": "Ctra. Alcora (Quadra Salera)",
+  "code": "1500",
+  "address": "Ctra. Alcora (Quadra Salera)",
+  "id": 2500,
+  "nextBuses": "L6 - 09:02#L12 - 09:07;L12 - 10:07"
+}, {
+  "position": {
+    "lat": 39.986884,
+    "lon": -0.058631
+  },
+  "name": "Ctra. Alcora (Quadra Salera)",
+  "code": "1483",
+  "address": "Ctra. Alcora (Quadra Salera)",
+  "id": 2501,
+  "nextBuses": "L6 - 08:56#L10 - 08:50;L10 - 09:15#L12 - 08:49;L12 - 09:49"
+}, {
+  "position": {
+    "lat": 39.98742,
+    "lon": -0.062331
+  },
+  "name": "Ctra. Alcora (Quadra Saboner)",
+  "code": "1484",
+  "address": "Ctra. Alcora (Quadra Saboner)",
+  "id": 2502,
+  "nextBuses": "L6 - 09:00#L12 - 09:05;L12 - 10:05"
+}, {
+  "position": {
+    "lat": 39.98772,
+    "lon": -0.063173
+  },
+  "name": "Ctra. Alcora (Quadra Saboner)",
+  "code": "1485",
+  "address": "Ctra. Alcora (Quadra Saboner)",
+  "id": 2503,
+  "nextBuses": "L6 - 08:39;L6 - 08:57#L10 - 08:51;L10 - 09:16#L12 - 08:51;L12 - 09:50"
+}, {
+  "position": {
+    "lat": 39.988219,
+    "lon": -0.066501
+  },
+  "name": "Ctra. Alcora (Quadra Los Cubos)",
+  "code": "1486",
+  "address": "Ctra. Alcora (Quadra Los Cubos)",
+  "id": 2504,
+  "nextBuses": "L6 - 08:59;L6 - 09:27#L10 - 08:52;L10 - 09:19#L12 - 09:04;L12 - 10:04"
+}, {
+  "position": {
+    "lat": 39.986287,
+    "lon": -0.055319
+  },
+  "name": "Ctra. Alcora (Mas Blau)",
+  "code": "1491",
+  "address": "Ctra. Alcora (Mas Blau)",
+  "id": 2505,
+  "nextBuses": "L6 - 08:55#L12 - 08:48;L12 - 09:47"
+}, {
+  "position": {
+    "lat": 39.988374,
+    "lon": -0.066577
+  },
+  "name": "Ctra. Alcora (Quadra Los Cubos)",
+  "code": "1489",
+  "address": "Ctra. Alcora (Quadra Los Cubos)",
+  "id": 2506,
+  "nextBuses": "L6 - 08:41;L6 - 08:58#L10 - 08:53;L10 - 09:18#L12 - 08:52;L12 - 09:51"
+}, {
+  "position": {
+    "lat": 39.986106,
+    "lon": -0.055303
+  },
+  "name": "Ctra. Alcora (Mas Blau)",
+  "code": "1490",
+  "address": "Ctra. Alcora (Mas Blau)",
+  "id": 2507,
+  "nextBuses": "L6 - 08:39;L6 - 09:03#L12 - 09:08;L12 - 10:08"
+}, {
+  "position": {
+    "lat": 39.989973,
+    "lon": -0.072106
+  },
+  "name": "Ctra. Alcora (S. José Obrero)",
+  "code": "1601",
+  "address": "Ctra. Alcora (S. José Obrero)",
+  "id": 2508,
+  "nextBuses": "L6 - 08:58;L6 - 09:26"
+}, {
+  "position": {
+    "lat": 39.990808,
+    "lon": -0.075911
+  },
+  "name": "Ctra. Alcora (Grupo Reyes)",
+  "code": "1603",
+  "address": "Ctra. Alcora (Grupo Reyes)",
+  "id": 2509,
+  "nextBuses": "L6 - 08:57;L6 - 09:24"
+}, {
+  "position": {
+    "lat": 39.990166,
+    "lon": -0.07225
+  },
+  "name": "Ctra. Alcora (Grupo S.José Obrero)",
+  "code": "1602",
+  "address": "Ctra. Alcora (Grupo S.José Obrero)",
+  "id": 2510,
+  "nextBuses": "L6 - 08:42;L6 - 09:00"
+}, {
+  "position": {
+    "lat": 39.991568,
+    "lon": -0.079954
+  },
+  "name": "Ctra. Alcora (Autopista)",
+  "code": "1611",
+  "address": "Ctra. Alcora (Autopista)",
+  "id": 2511,
+  "nextBuses": "L6 - 08:55;L6 - 09:23"
+}, {
+  "position": {
+    "lat": 39.990944,
+    "lon": -0.075964
+  },
+  "name": "Ctra. Alcora (Grupo Reyes)",
+  "code": "1610",
+  "address": "Ctra. Alcora (Grupo Reyes)",
+  "id": 2512,
+  "nextBuses": "L6 - 08:44;L6 - 09:02"
+}, {
+  "position": {
+    "lat": 39.97433,
+    "lon": 0.010767
+  },
+  "name": "Joan d\u0027Austria",
+  "code": "1385",
+  "address": "Joan d\u0027Austria",
+  "id": 2513,
+  "nextBuses": "LT Serradal - 09:06#LT Platja - 08:51;LT Platja - 09:21"
+}, {
+  "position": {
+    "lat": 39.991724,
+    "lon": -0.079748
+  },
+  "name": "Ctra. Alcora (Autopista)",
+  "code": "1612",
+  "address": "Ctra. Alcora (Autopista)",
+  "id": 2514,
+  "nextBuses": "L6 - 08:45;L6 - 09:03"
+}, {
+  "position": {
+    "lat": 39.9715,
+    "lon": 0.012992
+  },
+  "name": "Av. del Port",
+  "code": "1386",
+  "address": "Av. del Port",
+  "id": 2515,
+  "nextBuses": "LT Serradal - 09:08#LT Platja - 08:53;LT Platja - 09:23"
+}, {
+  "position": {
+    "lat": 39.974371,
+    "lon": 0.015476
+  },
+  "name": "Passeig Bonavista / Rotonda Centenari",
+  "code": "1387",
+  "address": "Passeig Bonavista / Rotonda Centenari",
+  "id": 2516,
+  "nextBuses": "LT Serradal - 08:40;LT Serradal - 09:09#LT Platja - 08:54;LT Platja - 09:24"
+}, {
+  "position": {
+    "lat": 39.989882,
+    "lon": -0.066371
+  },
+  "name": "Av. Sos Baynat",
+  "code": "1495",
+  "address": "Av. Sos Baynat",
+  "id": 2517,
+  "nextBuses": "L10 - 08:53;L10 - 09:18#L12 - 08:53;L12 - 09:52"
+}, {
+  "position": {
+    "lat": 39.976703,
+    "lon": -0.068469
+  },
+  "name": "Av. Francia (Ciudad Transporte)",
+  "code": "1582",
+  "address": "Av. Francia (Ciudad Transporte)",
+  "id": 2518,
+  "nextBuses": "L7 - 09:14;L7 - 10:24"
+}, {
+  "position": {
+    "lat": 39.985589,
+    "lon": -0.033604
+  },
+  "name": "Av. Del Mar 3",
+  "code": "1418",
+  "address": "Av. Del Mar 3",
+  "id": 2519,
+  "nextBuses": "L4 - 09:04;L4 - 09:34#L7 - 08:44;L7 - 09:53"
+}, {
+  "position": {
+    "lat": 39.985267,
+    "lon": -0.031955
+  },
+  "name": "Av. Del Mar 23",
+  "code": "1419",
+  "address": "Av. Del Mar 23",
+  "id": 2520,
+  "nextBuses": "L4 - 09:03;L4 - 09:33#L7 - 08:43;L7 - 09:53"
+}, {
+  "position": {
+    "lat": 39.984661,
+    "lon": -0.029042
+  },
+  "name": "Av. Del Mar 43",
+  "code": "1420",
+  "address": "Av. Del Mar 43",
+  "id": 2521,
+  "nextBuses": "L4 - 09:02;L4 - 09:32#L7 - 08:42;L7 - 09:52"
+}, {
+  "position": {
+    "lat": 39.985031,
+    "lon": -0.045993
+  },
+  "name": "Av. Dr. Clará (Hospital Provincial)",
+  "code": "1497",
+  "address": "Av. Dr. Clará (Hospital Provincial)",
+  "id": 2522,
+  "nextBuses": "L6 - 08:42;L6 - 09:06#L12 - 09:11;L12 - 10:11"
+}, {
+  "position": {
+    "lat": 39.984853,
+    "lon": -0.027769
+  },
+  "name": "Columbretes, nº2",
+  "code": "1504",
+  "address": "Columbretes, nº2",
+  "id": 2523,
+  "nextBuses": "L11 - 08:47;L11 - 09:20"
+}, {
+  "position": {
+    "lat": 39.976902,
+    "lon": -0.036989
+  },
+  "name": "Av.Chatellerault (fte.Farmacia)",
+  "code": "1498",
+  "address": "Av.Chatellerault (fte.Farmacia)",
+  "id": 2524,
+  "nextBuses": "L12 - 09:17;L12 - 10:17"
+}, {
+  "position": {
+    "lat": 39.996599,
+    "lon": -0.037601
+  },
+  "name": "Av. Benicassim 4A",
+  "code": "1570",
+  "address": "Av. Benicassim 4A",
+  "id": 2525,
+  "nextBuses": "L1 - 08:38;L1 - 08:46#L2 - 08:59;L2 - 09:29#L10 - 08:39;L10 - 09:12"
+}, {
+  "position": {
+    "lat": 39.998786,
+    "lon": -0.039298
+  },
+  "name": "Av. Benicassim (Políg. Estadio A)",
+  "code": "1562",
+  "address": "Av. Benicassim (Políg. Estadio A)",
+  "id": 2526,
+  "nextBuses": "L1 - 08:39;L1 - 08:47#L2 - 08:59;L2 - 09:30#L10 - 08:40;L10 - 09:13"
+}, {
+  "position": {
+    "lat": 39.991629,
+    "lon": -0.040521
+  },
+  "name": "Ronda Vinatea",
+  "code": "1508",
+  "address": "Ronda Vinatea",
+  "id": 2527,
+  "nextBuses": "L11 - 08:38;L11 - 08:56"
+}, {
+  "position": {
+    "lat": 40.002171,
+    "lon": -0.042045
+  },
+  "name": "Av. Benicàssim (Hosp.Gral.)",
+  "code": "1428",
+  "address": "Av. Benicàssim (Hosp.Gral.)",
+  "id": 2528,
+  "nextBuses": "L1 - 08:42;L1 - 08:49#L10 - 08:42;L10 - 09:15#L8 - 09:00;L8 - 10:22"
+}, {
+  "position": {
+    "lat": 39.991829,
+    "lon": -0.045525
+  },
+  "name": "Av.Quevedo, nº4",
+  "code": "1510",
+  "address": "Av.Quevedo, nº4",
+  "id": 2529,
+  "nextBuses": "L11 - 08:40;L11 - 08:58"
+}, {
+  "position": {
+    "lat": 39.990985,
+    "lon": -0.044191
+  },
+  "name": "Av. Barcelona, nº24",
+  "code": "1566",
+  "address": "Av. Barcelona, nº24",
+  "id": 2530,
+  "nextBuses": "L10 - 09:07;L10 - 09:32"
+}, {
+  "position": {
+    "lat": 39.988889,
+    "lon": -0.046085
+  },
+  "name": "Av. Barcelona (P.Ribalta)",
+  "code": "1472",
+  "address": "Av. Barcelona (P.Ribalta)",
+  "id": 2531,
+  "nextBuses": "L10 - 09:06;L10 - 09:31"
+}, {
+  "position": {
+    "lat": 39.987566,
+    "lon": -0.047547
+  },
+  "name": "Av. Barcelona (C.C.)",
+  "code": "1446",
+  "address": "Av. Barcelona (C.C.)",
+  "id": 2532,
+  "nextBuses": "L12 - 08:45;L12 - 09:44#L15 - 09:09;L15 - 10:09"
+}, {
+  "position": {
+    "lat": 39.985658,
+    "lon": -0.051845
+  },
+  "name": "Ctra. Alcora (C/Useras)",
+  "code": "1492",
+  "address": "Ctra. Alcora (C/Useras)",
+  "id": 2533,
+  "nextBuses": "L6 - 08:41;L6 - 09:04#L12 - 09:09;L12 - 10:09"
+}, {
+  "position": {
+    "lat": 39.985781,
+    "lon": -0.051734
+  },
+  "name": "Av. Alcora (C/Useras)",
+  "code": "1493",
+  "address": "Av. Alcora (C/Useras)",
+  "id": 2534,
+  "nextBuses": "L6 - 08:53;L6 - 09:17#L8 - 08:45;L8 - 10:07#L12 - 08:47;L12 - 09:46"
+}, {
+  "position": {
+    "lat": 39.991487,
+    "lon": -0.04657
+  },
+  "name": "Av. Espronceda",
+  "code": "1516",
+  "address": "Av. Espronceda",
+  "id": 2535,
+  "nextBuses": "L11 - 09:10"
+}, {
+  "position": {
+    "lat": 39.983136,
+    "lon": -0.037398
+  },
+  "name": "Asensi 6",
+  "code": "1580",
+  "address": "Asensi 6",
+  "id": 2536,
+  "nextBuses": "L4 - 08:48;L4 - 09:17#L7 - 09:47"
+}, {
+  "position": {
+    "lat": 39.977532,
+    "lon": 0.017106
+  },
+  "name": "Ferrandis Salvador davant Cap de Gata",
+  "code": "1388",
+  "address": "Ferrandis Salvador davant Cap de Gata",
+  "id": 2537,
+  "nextBuses": "LT Serradal - 08:59;LT Serradal - 09:28#LT Platja - 08:43;LT Platja - 09:13"
+}, {
+  "position": {
+    "lat": 39.980183,
+    "lon": 0.01867
+  },
+  "name": "Ferrandis Salvador / Hostaleria",
+  "code": "1389",
+  "address": "Ferrandis Salvador / Hostaleria",
+  "id": 2538,
+  "nextBuses": "LT Serradal - 08:57;LT Serradal - 09:27#LT Platja - 08:42;LT Platja - 09:12"
+}, {
+  "position": {
+    "lat": 39.980846,
+    "lon": -0.064534
+  },
+  "name": "Centro Comercial (Q.Salera)",
+  "code": "1426",
+  "address": "Centro Comercial (Q.Salera)",
+  "id": 2539,
+  "nextBuses": "L7 - 09:22;L7 - 10:32#L10 - 08:46;L10 - 09:11"
+}, {
+  "position": {
+    "lat": 39.981642,
+    "lon": 0.019487
+  },
+  "name": "Ferrandis Salvador davant núm. 10",
+  "code": "1390",
+  "address": "Ferrandis Salvador davant núm. 10",
+  "id": 2540,
+  "nextBuses": "LT Serradal - 08:57;LT Serradal - 09:26#LT Platja - 08:41;LT Platja - 09:11"
+}, {
+  "position": {
+    "lat": 39.979187,
+    "lon": -0.060916
+  },
+  "name": "C.C. (Antigua N-340)",
+  "code": "1427",
+  "address": "C.C. (Antigua N-340)",
+  "id": 2541,
+  "nextBuses": "L7 - 09:24;L7 - 10:34"
+}, {
+  "position": {
+    "lat": 39.983408,
+    "lon": 0.020463
+  },
+  "name": "Ferrandis Salvador davant núm. 26",
+  "code": "1391",
+  "address": "Ferrandis Salvador davant núm. 26",
+  "id": 2542,
+  "nextBuses": "LT Serradal - 08:56;LT Serradal - 09:25#LT Platja - 08:40;LT Platja - 09:10"
+}, {
+  "position": {
+    "lat": 39.985961,
+    "lon": 0.02187
+  },
+  "name": "Ferrandis Salvador davant núm. 46",
+  "code": "1392",
+  "address": "Ferrandis Salvador davant núm. 46",
+  "id": 2543,
+  "nextBuses": "LT Serradal - 08:55;LT Serradal - 09:24#LT Platja - 08:39;LT Platja - 09:09"
+}, {
+  "position": {
+    "lat": 39.98792,
+    "lon": 0.022949
+  },
+  "name": "Ferrandis Salvador davant núm. 50",
+  "code": "1393",
+  "address": "Ferrandis Salvador davant núm. 50",
+  "id": 2544,
+  "nextBuses": "LT Serradal - 08:54;LT Serradal - 09:23#LT Platja - 09:08"
+}, {
+  "position": {
+    "lat": 39.991667,
+    "lon": 0.024998
+  },
+  "name": "Ferrandis Salvador / Hotel del Golf",
+  "code": "1383",
+  "address": "Ferrandis Salvador / Hotel del Golf",
+  "id": 2545,
+  "nextBuses": "LT Serradal - 08:52;LT Serradal - 09:21#LT Platja - 09:06;LT Platja - 09:06"
+}, {
+  "position": {
+    "lat": 39.993477,
+    "lon": 0.026007
+  },
+  "name": "Av. Castàlia / Rotonda Aeroclub",
+  "code": "1384",
+  "address": "Av. Castàlia / Rotonda Aeroclub",
+  "id": 2546,
+  "nextBuses": "LT Platja - 09:05;LT Platja - 09:35"
+}, {
+  "position": {
+    "lat": 39.989651,
+    "lon": -0.045923
+  },
+  "name": "Cardenal Costa, nº8",
+  "code": "1475",
+  "address": "Cardenal Costa, nº8",
+  "id": 2547,
+  "nextBuses": "L10 - 08:39;L10 - 09:06"
+}, {
+  "position": {
+    "lat": 39.990456,
+    "lon": -0.047493
+  },
+  "name": "Cardenal Costa, nº28",
+  "code": "1461",
+  "address": "Cardenal Costa, nº28",
+  "id": 2548,
+  "nextBuses": "L10 - 08:39;L10 - 09:07#L15 - 08:51;L15 - 09:51"
+}, {
+  "position": {
+    "lat": 39.991441,
+    "lon": -0.049359
+  },
+  "name": "Cardenal Costa (Fte.Ford)",
+  "code": "1462",
+  "address": "Cardenal Costa (Fte.Ford)",
+  "id": 2549,
+  "nextBuses": "L10 - 08:40;L10 - 09:08#L8 - 08:49;L8 - 10:11#L11 - 08:42;L11 - 09:00#L15 - 08:52;L15 - 09:52"
+}, {
+  "position": {
+    "lat": 39.994318,
+    "lon": -0.033659
+  },
+  "name": "Cno. de La Plana (Colegio Isabel Ferrer)",
+  "code": "1676",
+  "address": "Cno. de La Plana (Colegio Isabel Ferrer)",
+  "id": 2550,
+  "nextBuses": "L1 - 08:44"
+}, {
+  "position": {
+    "lat": 39.987042,
+    "lon": -0.025309
+  },
+  "name": "Ciudad de la Justicia",
+  "code": "1505",
+  "address": "Ciudad de la Justicia",
+  "id": 2551,
+  "nextBuses": "L11 - 08:49;L11 - 09:21"
+}, {
+  "position": {
+    "lat": 39.992772,
+    "lon": -0.047873
+  },
+  "name": "Av. Vall d\u0027Uixó (Av.Quevedo) A",
+  "code": "1431",
+  "address": "Av. Vall d\u0027Uixó (Av.Quevedo) A",
+  "id": 2552,
+  "nextBuses": "L11 - 08:41;L11 - 08:59"
+}, {
+  "position": {
+    "lat": 39.979152,
+    "lon": -0.043987
+  },
+  "name": "Av. Valencia nº28",
+  "code": "1438",
+  "address": "Av. Valencia nº28",
+  "id": 2553,
+  "nextBuses": "L1 - 08:43;L1 - 09:03#L2 - 08:51;L2 - 09:16#L15 - 09:15;L15 - 10:15"
+}, {
+  "position": {
+    "lat": 39.978082,
+    "lon": -0.04511
+  },
+  "name": "Av. Valencia nº27",
+  "code": "1665",
+  "address": "Av. Valencia nº27",
+  "id": 2554,
+  "nextBuses": "L1 - 08:50;L1 - 09:05#L2 - 08:49;L2 - 09:19"
+}, {
+  "position": {
+    "lat": 39.974742,
+    "lon": -0.050113
+  },
+  "name": "Av. Valencia nº110",
+  "code": "1439",
+  "address": "Av. Valencia nº110",
+  "id": 2555,
+  "nextBuses": "L1 - 08:46;L1 - 09:05#L2 - 08:54;L2 - 09:19#L15 - 09:18;L15 - 10:18"
+}, {
+  "position": {
+    "lat": 39.990044,
+    "lon": 0.025667
+  },
+  "name": "Av. Castàlia 31",
+  "code": "1376",
+  "address": "Av. Castàlia 31",
+  "id": 2556,
+  "nextBuses": "LT Platja - 09:04;LT Platja - 09:34"
+}, {
+  "position": {
+    "lat": 39.976823,
+    "lon": -0.047295
+  },
+  "name": "Av. Valencia (Pza. Libertad) B",
+  "code": "1440",
+  "address": "Av. Valencia (Pza. Libertad) B",
+  "id": 2557,
+  "nextBuses": "L1 - 08:45;L1 - 09:05#L2 - 08:52;L2 - 09:17#L15 - 09:17;L15 - 10:17"
+}, {
+  "position": {
+    "lat": 39.988557,
+    "lon": 0.025006
+  },
+  "name": "Av. Castàlia / Restaurant La Ola",
+  "code": "1377",
+  "address": "Av. Castàlia / Restaurant La Ola",
+  "id": 2558,
+  "nextBuses": "LT Platja - 09:03;LT Platja - 09:33"
+}, {
+  "position": {
+    "lat": 39.976637,
+    "lon": -0.047093
+  },
+  "name": "Av. Valencia (Pza. Libertad) A",
+  "code": "1441",
+  "address": "Av. Valencia (Pza. Libertad) A",
+  "id": 2559,
+  "nextBuses": "L1 - 08:49;L1 - 09:04#L2 - 08:49;L2 - 09:19#L15 - 08:44;L15 - 09:44"
+}, {
+  "position": {
+    "lat": 39.986219,
+    "lon": 0.024093
+  },
+  "name": "Av. Castàlia / Residència Pinar",
+  "code": "1378",
+  "address": "Av. Castàlia / Residència Pinar",
+  "id": 2560,
+  "nextBuses": "LT Platja - 09:02;LT Platja - 09:32"
+}, {
+  "position": {
+    "lat": 39.974654,
+    "lon": -0.049871
+  },
+  "name": "Av. Valencia (Grupo Verge Lledó)",
+  "code": "1442",
+  "address": "Av. Valencia (Grupo Verge Lledó)",
+  "id": 2561,
+  "nextBuses": "L1 - 08:47;L1 - 09:02#L2 - 08:47;L2 - 09:17#L15 - 08:42;L15 - 09:42"
+}, {
+  "position": {
+    "lat": 39.981979,
+    "lon": 0.022044
+  },
+  "name": "Av. Castàlia 3",
+  "code": "1379",
+  "address": "Av. Castàlia 3",
+  "id": 2562,
+  "nextBuses": "LT Platja - 09:00;LT Platja - 09:30"
+}, {
+  "position": {
+    "lat": 39.997697,
+    "lon": -0.043925
+  },
+  "name": "Av. Tombatossals",
+  "code": "1560",
+  "address": "Av. Tombatossals",
+  "id": 2563,
+  "nextBuses": "L10 - 08:57;L10 - 09:26"
+}, {
+  "position": {
+    "lat": 39.979,
+    "lon": 0.022733
+  },
+  "name": "Parc Litoral/Planetari",
+  "code": "1380",
+  "address": "Parc Litoral/Planetari",
+  "id": 2564,
+  "nextBuses": "LT Platja - 08:58;LT Platja - 09:28"
+}, {
+  "position": {
+    "lat": 39.979773,
+    "lon": 0.018928
+  },
+  "name": "Francesc Aragó (Hosteleria)",
+  "code": "1381",
+  "address": "Francesc Aragó (Hosteleria)",
+  "id": 2565,
+  "nextBuses": "LT Platja - 08:57;LT Platja - 09:27"
+}, {
+  "position": {
+    "lat": 39.977448,
+    "lon": 0.017298
+  },
+  "name": "Ferrandis Salvador (davant Cap de Gata)",
+  "code": "1382",
+  "address": "Ferrandis Salvador (davant Cap de Gata)",
+  "id": 2566,
+  "nextBuses": "LT Platja - 08:56;LT Platja - 09:26"
+}]

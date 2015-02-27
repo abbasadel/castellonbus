@@ -234,7 +234,7 @@
         opacity: 0.5,
         color: item.color,
         pointToLayer: function(geojson, latlng) {
-          console.log(geojson)
+          //console.log(geojson)
 
           station = geojson.properties;
           if(!station.nextbuses){
@@ -257,8 +257,113 @@
     });
 
 
+    function getBuslines(){
+
+      //class
+      function BusLines() {
+        this.names = [];
+        this.data = [];
+
+        this.addLine = function(name, times, station) {
+
+          // console.log(name)
+          // console.log(times)
+          // console.log(station)
+          // console.log('----')
+          index = this.names.indexOf(name);
+          if(index > -1 ){
+            $.each(times, function(i, time){
+              me.data[index].buses[i].push({time: time, station:station});
+            });
+
+          }else{
+            this.names.push(name);
+            index = this.names.length-1;
+            this.data[index] = {
+              name : name,
+              number: name.substring(0, name.indexOf(' ')>-1?name.indexOf(' '):name.length),
+              buses : []
+            };
+
+            me = this;
+
+            $.each(times, function(i, time){
+              me.data[index].buses[i] = [];
+              me.data[index].buses[i].push({time: time, station:station});
+            });
+
+          }
+        }
+
+        this.getData = function(){
+          return this.data;
+        }
+      };
+
+      var busLines = new BusLines();
+
+
+      var lines = [];
+      $.getJSON( "updates.json", function( data ) {
+        $.each(data, function(index, station){
+          nextBuses = station.nextBuses;
+          if(nextBuses == 'Empty') return true;
+          //console.log(nextBuses);
+
+          var linesHash = [];
+          var timesHash = [];
+
+          $.each(nextBuses.split('#'), function(i, line){
+              $.each(line.split(';'), function(ii, time){
+              lname = time.substring(0,time.indexOf('-')).trim();
+              ltime = time.substring(time.indexOf('-')+1).trim();
+
+              linesIndex = linesHash.indexOf(lname)
+              if(linesIndex > -1){
+                timesHash[linesIndex].push(ltime);
+              }else{
+                linesHash.push(lname);
+                linesIndex = linesHash.length-1;
+                timesHash[linesIndex] = [];
+                timesHash[linesIndex].push(ltime);
+              }
+
+              // console.log(name);
+              // console.log(time);
+            });
+          });
+
+          // console.log(linesHash);
+          // console.log(timesHash);
+
+          $.each(linesHash, function(linesIndex, linename){
+            busLines.addLine(linename, timesHash[linesIndex], station);
+          });
+
+        });
+         //console.log(busLines);
+      });
+
+      // lines [
+      //   {
+      //     name:"T1 a UJI", buses: [
+      //       [{time:08:40, station: "station"}, {time:08:41, station:"station"}]
+      //       [{time:08:43, station: "station"},, {time:08:44, station:"station"}]
+      //     ]
+      //   }
+      // ]
+
+      return busLines;
+    };
+
+
 
     $(document).ready(function() {
+
+      timetable = getBuslines();
+      console.log(timetable);
+
+
 
 
       $('.bus_line').click(function() {
@@ -275,13 +380,67 @@
             var line = featureCollection.features[0].geometry.coordinates;
 
             //swtch lat and lng
+            var startStation = null; //L.point(39.979697, -0.038507);
+            var endStation = null; //L.point(39.974654, -0.049871);
+
+            $.each(timetable.data, function(ib, busline){
+              if(busline.number == line_number){
+                startStation = L.point(busline.buses[0][0].station.position.lat, busline.buses[0][0].station.position.lon);
+                lastindex = busline.buses[0].length-1
+                endStation = L.point(busline.buses[0][lastindex].station.position.lat, busline.buses[0][lastindex].station.position.lon);
+
+                // startStation = buses[0][0].station.position
+
+                console.log(startStation)
+                console.log(endStation)
+              }
+            });
+
+
+
+
+
+            startStationIndex = 0;
+            endStationIndex = line.length;
+
             $.each(line, function(index, item) {
               var x = item[0];
               item[0] = item[1];
               item[1] = x;
+
+              currentPoint = L.point(item[0], item[1]);
+
+              // console.log((startStation.distanceTo( currentPoint ) *10000)  + ' ' + index);
+
+              if(startStation != null && startStation.distanceTo( currentPoint ) *10000 < 1){
+
+                startStationIndex = index;
+              }
+
+              if(endStation != null &&  endStation.distanceTo( currentPoint ) *1000*10  < 1){
+                endStationIndex = index;
+              }
+
             });
 
-            var pline = L.polyline(line);
+            console.log(startStationIndex)
+            console.log(endStationIndex)
+
+
+
+
+            // $.each(line, function(index, item) {
+            //   console.log() );
+            // });
+
+            var pline = L.polyline(line.slice(startStationIndex, endStationIndex));
+
+            // bounds = L.bounds( L.point(39.979697, -0.038507),  L.point(39.974654, -0.049871));
+            // console.log(pline);
+            // pline = L.PolyUtil.clipPolygon(pline, bounds)
+            // console.log(pline);
+
+
             markers[busline.line] = L.animatedMarker(pline.getLatLngs(), {
               icon: L.MakiMarkers.icon({
                 icon: "bus",
