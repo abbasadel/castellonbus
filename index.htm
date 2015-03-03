@@ -1,0 +1,484 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Bus Routes | UJI</title>
+
+  <!-- Bootstrap -->
+  <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css"> -->
+
+  <link href="css/bootstrap.css" rel="stylesheet">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
+  <link rel="stylesheet" href="http://serverapi.arcgisonline.com/jsapi/arcgis/3.3/js/dojo/dijit/themes/soria/soria.css">
+  <link rel="stylesheet" href="http://serverapi.arcgisonline.com/jsapi/arcgis/3.3/js/esri/css/esri.css">
+
+
+  <!-- Load Leaflet from CDN-->
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/leaflet/0.7.3/leaflet.css" />
+  <link rel="stylesheet" href="http://code.ionicframework.com/ionicons/1.5.2/css/ionicons.min.css">
+  <link rel="stylesheet" href="css/leaflet.awesome-markers.css">
+
+
+
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+    }
+    #map {
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      right: 0;
+      left: 0;
+    }
+    #map {
+      position: absolute;
+      height: 100%;
+      width: 100%;
+    }
+    #zoomControls {
+      position: absolute;
+      right: 20px;
+      top: 10px;
+      z-index: 3;
+    }
+    #logo {
+      position: absolute;
+      z-index: 3;
+      right: 20px;
+      top: 10px;
+    }
+    #logo img {
+      width: 45px;
+    }
+    #routes-list {
+      margin-top: 10px;
+    }
+    #routes-list li a {
+      padding: 5px 15px;
+    }
+  </style>
+
+
+  <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+  <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+  <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+
+  <!-- dojo -->
+
+
+
+</head>
+
+<body>
+  <div id="map">
+
+    <div id="logo">
+      <img src="images/logo.png" />
+    </div>
+  </div>
+  <div class="container-fluid">
+    <div class="row">.</div>
+    <div class="row">
+      <div class="col-md-2 col-sm-4 col-xs-6">
+        <div class="panel panel-default">
+          <div class="panel-body">
+            <!-- option -->
+            <div role="tabpanel">
+
+              <ul class="nav nav-pills" role="tablist">
+                <li role="presentation" class="active"><a data-toggle="pill" href="#routes">Bus Routes</a>
+                </li>
+                <!-- <li role="presentation" class=""><a data-toggle="pill" href="#direction">Directions</a>
+                </li> -->
+
+
+              </ul>
+
+
+              <!-- Tab panes -->
+              <div class="tab-content">
+                <div role="tabpanel" class="tab-pane active" id="routes">
+                  <ul id="routes-list" class="nav nav-pills nav-stacked">
+                    <li class=" bus_line " data-line-number="L1"> <a href="#"><i class="fa fa-bus"></i> Line 1</a>
+                    </li>
+                    <li class=" bus_line " data-line-number="L2"> <a href="#"><i class="fa fa-bus"></i> Line 2</a>
+                    </li>
+                    <li class=" bus_line " data-line-number="L3"> <a href="#"><i class="fa fa-bus"></i> Line 3 </a>
+                    </li>
+                    <li class=" bus_line " data-line-number="L4"> <a href="#"><i class="fa fa-bus"></i> Line 4</a>
+                    </li>
+                    <li class=" bus_line " data-line-number="L5"> <a href="#"><i class="fa fa-bus"></i> Line 5</a>
+                    </li>
+                    <li class=" bus_line " data-line-number="L6"> <a href="#"><i class="fa fa-bus"></i> Line 6</a>
+                    </li>
+                    <li class=" bus_line " data-line-number="L7"> <a href="#"><i class="fa fa-bus"></i> Line 7</a>
+                    </li>
+                    <li class=" bus_line " data-line-number="L8"> <a href="#"><i class="fa fa-bus"></i> Line 8</a>
+                    </li>
+                    <li class=" bus_line " data-line-number="L9"> <a href="#"><i class="fa fa-bus"></i> Line 9</a>
+                    </li>
+                    <li class=" bus_line " data-line-number="L10"> <a href="#"><i class="fa fa-bus"></i> Line 10</a>
+                    </li>
+                    <li class=" bus_line " data-line-number="L11"> <a href="#"><i class="fa fa-bus"></i> Line 11</a>
+                    </li>
+                    <li class=" bus_line " data-line-number="L12"> <a href="#"><i class="fa fa-bus"></i> Line 12</a>
+                    </li>
+                    <li class=" bus_line " data-line-number="L13"> <a href="#"><i class="fa fa-bus"></i> Line 13</a>
+                    </li>
+                    <li class=" bus_line " data-line-number="L15"> <a href="#"><i class="fa fa-bus"></i> Line 15</a>
+                    </li>
+                    <li class=" bus_line " data-line-number="L16"> <a href="#"><i class="fa fa-bus"></i> Line 16</a>
+                    </li>
+                    <li class=" bus_line " data-line-number="L17"> <a href="#"><i class="fa fa-bus"></i> Line 17</a>
+                    </li>
+                    <li class=" bus_line " data-line-number="T1"> <a href="#"><i class="fa fa-bus"></i> T1 UJI Grao</a>
+                    </li>
+                    <li class=" bus_line " data-line-number="T1_2"> <a href="#"><i class="fa fa-bus"></i> T1 Grao UJI</a>
+                    </li>
+                  </ul>
+                </div>
+
+                <div class="btn-group pull-right" role="group" aria-label="...">
+                  <button type="button" class="btn btn-default" id="allBus"><i class="fa fa-check"></i> All</button>
+                  <button type="button" class="btn btn-info" id="clearBus"><i class="fa fa-trash-o"></i> Clear</button>
+                </div>
+
+              </div>
+              <div role="tabpanel" class="tab-pane" id="direction"></div>
+
+            </div>
+          </div>
+
+
+        </div>
+      </div>
+    </div>
+  </div>
+  </div>
+
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+  <!-- Include all compiled plugins (below), or include individual files as needed -->
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
+
+  <script src="http://cdn.jsdelivr.net/leaflet/0.7.3/leaflet.js"></script>
+  <script src="js/AnimatedMarker.js"></script>
+  <script src="js/leaflet.awesome-markers.min.js"></script>
+  <script src="js/Leaflet.MakiMarkers.js"></script>
+
+
+  <!-- Load Esri Leaflet from CDN -->
+  <script src="http://cdn-geoweb.s3.amazonaws.com/esri-leaflet/1.0.0-rc.5/esri-leaflet.js"></script>
+
+
+
+  <script>
+    var buses = {
+      'L1' : {line: 19, stations: 1, color:'#fe0002'},
+      'L2' : {line: 20, stations: 2, color:'#ff6600'},
+      'L3' : {line: 21, stations: 3, color:'#948953'},
+      'L4' : {line: 22, stations: 4, color:'#807f00'},
+      'L5' : {line: 23, stations: 5, color:'#ffa500'},
+      'L6' : {line: 24, stations: 6, color:'#00af50'},
+      'L7' : {line: 25, stations: 7, color:'#92d14f'},
+      'L8' : {line: 26, stations: 8, color:'#026fc1'},
+      'L9' : {line: 27, stations: 9, color:'#33a09c'},
+      'L10' : {line: 28, stations: 10, color:'#fd349a'},
+      'L11' : {line: 29, stations: 11, color:'#96b4d8'},
+      'L12' : {line: 30, stations: 12, color:'#943636'},
+      'L13' : {line: 31, stations: 13, color:'#ffc000'},
+      'L15' : {line: 32, stations: 14, color:'#6f31a0'},
+      'L16' : {line: 33, stations: 15, color:'#333'},
+      'L17' : {line: 34, stations: 16, color:'#333'},
+      'T1' : {line: 35, stations: 17, color:'#00FF00'},
+      'T1_2' : {line: 36, stations: 17, color:'#00FF00'},
+    };
+    // var busLinesLayes = [19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33,34,35,36];
+    // var busStationsLayes = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16,17, 17];
+    // var colors = ['#92d14f', '#026fc1', '#33a09c', '#fd349a', '#96b4d8', '#943636', '#943636', '#ffc000', '#6f31a0', '#333', '#333', '#333'];
+    var activeLayers = [];
+    var featureLayers = [];
+    var markers = [];
+    var line;
+    var mapService = 'http://mastergeotech.dlsi.uji.es:6080/arcgis/rest/services/DuyTran_al324831/bus_castellon/MapServer/';
+
+
+    var map = L.map('map', {
+      zoomControl: false
+    }).setView([39.9859663, -0.0416723], 15);
+    new L.Control.Zoom({
+      position: 'bottomright'
+    }).addTo(map);
+
+    L.esri.basemapLayer('Streets').addTo(map);
+    //var dynamicMapLayer = L.esri.dynamicMapLayer(mapService).addTo(map);
+
+    $.each(buses, function(index, item) {
+      featureLayers[item.line] = L.esri.featureLayer(mapService + item.line, {
+        weight: 5,
+        opacity: 0.5,
+        color: item.color
+      });
+
+      featureLayers[item.stations] = L.esri.featureLayer(mapService + item.stations, {
+        opacity: 0.5,
+        color: item.color,
+        pointToLayer: function(geojson, latlng) {
+          //console.log(geojson)
+
+          station = geojson.properties;
+          if(!station.nextbuses){
+            station.nextbuses = '';
+          }
+
+          return L.marker(latlng, {
+            icon: L.icon({
+              iconUrl: 'http://esri.github.io/esri-leaflet/img/bus-stop.png',
+              iconRetinaUrl: 'http://esri.github.io/esri-leaflet/img/bus-stop.png',
+              iconSize: [16, 16],
+              iconAnchor: [17.5, 13.5],
+              popupAnchor: [0, -11],
+            })
+          }).bindPopup("<b>"+station.name+"</b><br />" + station.nextbuses.replace(/[;#]/g,'<br />'));
+        },
+
+      });
+
+    });
+
+
+    function getBuslines(){
+
+      //class
+      function BusLines() {
+        this.names = [];
+        this.data = [];
+
+        this.addLine = function(name, times, station) {
+
+          // console.log(name)
+          // console.log(times)
+          // console.log(station)
+          // console.log('----')
+          index = this.names.indexOf(name);
+          if(index > -1 ){
+            $.each(times, function(i, time){
+              me.data[index].buses[i].push({time: time, station:station});
+            });
+
+          }else{
+            this.names.push(name);
+            index = this.names.length-1;
+            this.data[index] = {
+              name : name,
+              number: name.substring(0, name.indexOf(' ')>-1?name.indexOf(' '):name.length),
+              buses : []
+            };
+
+            me = this;
+
+            $.each(times, function(i, time){
+              me.data[index].buses[i] = [];
+              me.data[index].buses[i].push({time: time, station:station});
+            });
+
+          }
+        }
+
+        this.getData = function(){
+          return this.data;
+        }
+      };
+
+      var busLines = new BusLines();
+
+
+      var lines = [];
+      $.getJSON( "updates.json", function( data ) {
+        $.each(data, function(index, station){
+          nextBuses = station.nextBuses;
+          if(nextBuses == 'Empty') return true;
+          //console.log(nextBuses);
+
+          var linesHash = [];
+          var timesHash = [];
+
+          $.each(nextBuses.split('#'), function(i, line){
+              $.each(line.split(';'), function(ii, time){
+              lname = time.substring(0,time.indexOf('-')).trim();
+              ltime = time.substring(time.indexOf('-')+1).trim();
+
+              linesIndex = linesHash.indexOf(lname)
+              if(linesIndex > -1){
+                timesHash[linesIndex].push(ltime);
+              }else{
+                linesHash.push(lname);
+                linesIndex = linesHash.length-1;
+                timesHash[linesIndex] = [];
+                timesHash[linesIndex].push(ltime);
+              }
+
+              // console.log(name);
+              // console.log(time);
+            });
+          });
+
+          // console.log(linesHash);
+          // console.log(timesHash);
+
+          $.each(linesHash, function(linesIndex, linename){
+            busLines.addLine(linename, timesHash[linesIndex], station);
+          });
+
+        });
+         //console.log(busLines);
+      });
+
+      // lines [
+      //   {
+      //     name:"T1 a UJI", buses: [
+      //       [{time:08:40, station: "station"}, {time:08:41, station:"station"}]
+      //       [{time:08:43, station: "station"},, {time:08:44, station:"station"}]
+      //     ]
+      //   }
+      // ]
+
+      return busLines;
+    };
+
+
+
+    $(document).ready(function() {
+
+      timetable = getBuslines();
+      console.log(timetable);
+
+
+
+
+      $('.bus_line').click(function() {
+        var line_number = $(this).data("line-number");
+        var busline = buses[line_number];
+
+        if (!$(this).hasClass('active')) {
+          // activate the bus line
+          featureLayers[busline.line].addTo(map);
+          featureLayers[busline.stations].addTo(map);
+
+          //make animation
+          featureLayers[busline.line].query().where("1=1").run(function(error, featureCollection, response) {
+            var line = featureCollection.features[0].geometry.coordinates;
+
+            //swtch lat and lng
+            var startStation = null; //L.point(39.979697, -0.038507);
+            var endStation = null; //L.point(39.974654, -0.049871);
+
+            $.each(timetable.data, function(ib, busline){
+              if(busline.number == line_number){
+                startStation = L.point(busline.buses[0][0].station.position.lat, busline.buses[0][0].station.position.lon);
+                lastindex = busline.buses[0].length-1
+                endStation = L.point(busline.buses[0][lastindex].station.position.lat, busline.buses[0][lastindex].station.position.lon);
+
+                // startStation = buses[0][0].station.position
+
+                console.log(startStation)
+                console.log(endStation)
+              }
+            });
+
+
+
+
+
+            startStationIndex = 0;
+            endStationIndex = line.length;
+
+            $.each(line, function(index, item) {
+              var x = item[0];
+              item[0] = item[1];
+              item[1] = x;
+
+              currentPoint = L.point(item[0], item[1]);
+
+              // console.log((startStation.distanceTo( currentPoint ) *10000)  + ' ' + index);
+
+              if(startStation != null && startStation.distanceTo( currentPoint ) *10000 < 1){
+
+                startStationIndex = index;
+              }
+
+              if(endStation != null &&  endStation.distanceTo( currentPoint ) *1000*10  < 1){
+                endStationIndex = index;
+              }
+
+            });
+
+            console.log(startStationIndex)
+            console.log(endStationIndex)
+
+
+
+
+            // $.each(line, function(index, item) {
+            //   console.log() );
+            // });
+
+            var pline = L.polyline(line.slice(startStationIndex, endStationIndex));
+
+            // bounds = L.bounds( L.point(39.979697, -0.038507),  L.point(39.974654, -0.049871));
+            // console.log(pline);
+            // pline = L.PolyUtil.clipPolygon(pline, bounds)
+            // console.log(pline);
+
+
+            markers[busline.line] = L.animatedMarker(pline.getLatLngs(), {
+              icon: L.MakiMarkers.icon({
+                icon: "bus",
+                color: busline.color,
+                size: "m"
+              }),
+              distance: 2, // meters
+              interval: 200, // milliseconds
+            });
+            map.addLayer(markers[busline.line]);
+          });
+
+          $(this).addClass('active');
+
+        } else {
+
+          // deactivate the bus line
+          featureLayers[busline.line].removeFrom(map);
+          featureLayers[busline.stations].removeFrom(map);
+          map.removeLayer(markers[busline.line]);
+          $(this).removeClass('active');
+        }
+
+      });
+
+      //on click ations
+      $('#clearBus').click(function(){
+        $('.bus_line.active').click();
+      })
+
+      $('#allBus').click(function(){
+        $('.bus_line').click();
+      })
+
+
+    });
+  </script>
+
+</body>
+
+</html>
